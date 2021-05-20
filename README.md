@@ -1,2 +1,2 @@
-# hololive-asmr
-ホロライブのASMR配信検索サービス
+# ASMR sounds of hololive
+**ホロライブのASMR配信が無性に見たい……！**というときに使うサービスです。
