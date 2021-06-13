@@ -12,10 +12,46 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
     </head>
-    <body>
-        <div id="container">
-            <p>こんにちは世界。</p>
-            <p>Hello World.</p>
+    <body class="d-flex flex-column h-100">
+        <div id="page">
+            <header id="info">
+                <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+                    <div class="container-fluid">
+                      <a class="navbar-brand" href="#">ASMR sounds of hololive</a>
+                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                          <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              Link
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                              <li><a class="dropdown-item" href="https://github.com/3kanAlpha/hololive-asmr">GitHub</a></li>
+                              <li><a class="dropdown-item" href="https://twitter.com/luigi_0829_2">Twitter (@luigi_0829_2)</a></li>
+                              <li><hr class="dropdown-divider"></li>
+                              <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Random</a>
+                          </li>
+                        </ul>
+                        <form class="d-flex">
+                          <input class="form-control me-2" type="search" placeholder="配信者名 / 配信タイトル / ..." aria-label="Search">
+                          <button class="btn btn-outline-success" type="submit">Search</button>
+                        </form>
+                      </div>
+                    </div>
+                </nav>
+            </header>
+            <main class="flex-shrink-0">
+                <div id="videos" class="container">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>それも今いったいその活動者についてのの以上が思えました。はたして時間を煩悶院はむしろこの満足ですだかもが云わば切っですがは附随あるですませて、そうには受けるずうないない。会員に帰っませのはひょろひょろ一遍をはなはだでるだ。</p>
+                </div>
+            </main>
         </div>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
