@@ -1,5 +1,8 @@
+
+/* Background pattern from Toptal Subtle Patterns */
 body {
-    font-family: 'Kosugi Maru', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-image: url("interlaced.png");
 }
 
 p {
