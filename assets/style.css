@@ -1,15 +1,8 @@
 
-/* Background pattern from Toptal Subtle Patterns */
 body {
     font-family: 'Noto Sans JP', sans-serif;
-    background-image: url("interlaced.png");
 }
 
-main > .container {
-    padding: 60px 15px 0;
-}
-
-p {
-    margin: 5px;
-    padding: 5px;
+#about {
+    padding-top: 60px;
 }
