@@ -25,10 +25,31 @@ $(function() {
     ).done(buildList);
 });
 
+// Return the random value in [0, max)
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
+
+function resetVM() {
+    for (let i = 0; i < videos.length; i++) vm.items.pop();
+}
+
+function shuffleList(arr) {
+    for (let i = arr.length; 1 < i; i--) {
+        k = getRandomInt(i);
+        [arr[k], arr[i - 1]] = [arr[i - 1], arr[k]];
+    }
+
+    return arr;
+}
+
 function buildList() {
+    const sf = shuffleList(videos);
+
     for (let i = 0; i < videos.length; i++) {
-        const v = videos[i];
-        const a = v.snippet.title;
+        const v = sf[i];
+        // エスケープ修正
+        const a = v.snippet.title.replace(/&amp;/g, '&');
         const b = v.snippet.channelTitle;
         const c = v.snippet.thumbnails.medium.url;
         const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
