@@ -16,7 +16,7 @@ let videos;
 
 $(function() {
     $.when(
-        $.getJSON('assets/data_20210617_123937.json', function(e) {
+        $.getJSON('assets/data_20210617_174024.json', function(e) {
             data = e;
             videos = data['videos'];
     

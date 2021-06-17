@@ -87,6 +87,42 @@
         {
             "name": "星街すいせい",
             "channelId": "UC5CwaMl1eIgY8h02uZw7u8A"
+        },
+        {
+            "name": "天音かなた",
+            "channelId": "UCZlDXzGoo7d44bwdNObFacg"
+        },
+        {
+            "name": "桐生ココ",
+            "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w"
+        },
+        {
+            "name": "角巻わため",
+            "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA"
+        },
+        {
+            "name": "常闇トワ",
+            "channelId": "UC1uv2Oq6kNxgATlCiez59hw"
+        },
+        {
+            "name": "姫森ルーナ",
+            "channelId": "UCa9Y57gfeY0Zro_noHRVrnw"
+        },
+        {
+            "name": "雪花ラミィ",
+            "channelId": "UCFKOVgVbGmX65RxO3EtH3iw"
+        },
+        {
+            "name": "桃鈴ねね",
+            "channelId": "UCAWSyEs_Io8MtpY3m-zqILA"
+        },
+        {
+            "name": "獅白ぼたん",
+            "channelId": "UCUKD-uaobj9jiqB-VXt71mA"
+        },
+        {
+            "name": "尾丸ポルカ",
+            "channelId": "UCK9V2B22uJYu3N7eR_BT9QA"
         }
     ],
     "videos": [
@@ -3556,6 +3592,2318 @@
                 "channelTitle": "Shion Ch. 紫咲シオン",
                 "liveBroadcastContent": "none",
                 "publishTime": "2019-02-11T12:46:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yS81l3x8nPGDVM9ayfcYVpkGT7U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3gOhLstrTvs"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-16T12:44:49Z",
+                "channelId": "UCvzGlP9oQwU--Y0r9id_jnA",
+                "title": "【#生スバル】ライブ直前！？DEATHルーレットASMR💛【ホロライブ/大空スバル】",
+                "description": "本気だが？ イラスト… モットモットダエヲカケ （@meganekko360）先輩！ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 8/11まで！2020お誕生日限定ボイス&グッズで ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3gOhLstrTvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3gOhLstrTvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3gOhLstrTvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Subaru Ch. 大空スバル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-16T12:44:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ce6jcVvls4xkDlb0aNrcHtKxGKc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qLpYkpAXMbQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-28T15:22:10Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "【ASMR】タロットカードでスピリチュアルの音～【大神ミオ】",
+                "description": "タロットカードを使ったASMRです。 たまに鈴？の音がします。りんりん。 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ ボイスやオリジナルグッズ発売中   1周年記念ボイス＆記念グッズ   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qLpYkpAXMbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qLpYkpAXMbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qLpYkpAXMbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-28T15:22:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZAO4KlEDvEOs05S0sTJtGAchslY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VbtBt7okihM"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-01T15:13:52Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "復活！！そうめんちゅるちゅるASMR【バイノーラルマイク/大神ミオ】",
+                "description": "今年もそうめんの季節がやってきたねぇ ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ ボイスやオリジナルグッズ発売中   1周年記念ボイス＆記念グッズ   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VbtBt7okihM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VbtBt7okihM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VbtBt7okihM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-01T15:13:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oCbD-YX9w1CtS6S8odBLlatLVTM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "522ZC2kVJRo"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-22T16:26:09Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "【雑談】まったりしよう～～～眠い人集合【バイノーラルマイク】",
+                "description": "誕生日プレゼントの紹介とかもしたい！ 寝落ち上等、寝かせにいきます。 illustrator：足が折れたさん（https://twitter.com/senzure） ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ ボイスや ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/522ZC2kVJRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/522ZC2kVJRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/522ZC2kVJRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-22T16:26:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "efqki2e3OUpJdI2vEzqMaoSXkFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8v2yxlwiCac"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-31T03:17:15Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "【お昼ごはん】そうめんちゅるちゅる【ASMR】",
+                "description": "バイノーラルマイクで、そうめんちゅるちゅる✨ いっぱいコメント拾いながら、雑談したい！！！！！！！ ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 大神ミオ初個人ボイス販売中   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8v2yxlwiCac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8v2yxlwiCac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8v2yxlwiCac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-31T03:17:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iB8c-mBBjuvsKEpqNtkv52egUFM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "in6ZQVdHn70"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-31T15:32:37Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "バイノーラルマイクで歌ったらどうなるの？？？",
+                "description": "今日は宇宙   音源お借りします   カラオケ歌っちゃ王 https://www.youtube.com/channel/UC1tk9F5-MGXEq4LWnjmrtpA 生音風カラオケ屋 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/in6ZQVdHn70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/in6ZQVdHn70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/in6ZQVdHn70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-31T15:32:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9awUcWC_9l-cOiqPrrv4_YNQNAE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jOTKDDTGaqI"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-13T12:22:53Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【子守唄ASMR】今日は早く寝よう /softly song Japanese【ホロライブ/猫又おかゆ】",
+                "description": "ASMR用のマイクで静かに歌います。   早く寝る人も寝ない人もまったりしていってね～～。 ※僕とみんなのお約束※ ・コメントの感じ方は人それぞれです。 自分が不快に ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jOTKDDTGaqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jOTKDDTGaqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jOTKDDTGaqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-13T12:22:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iIIQDg1NdAcQM0ROAlgCJ6kecyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nWTgS3JFVkk"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-16T14:43:06Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】はじめての梵天耳かき！/Ear Cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ 耳かきしてると僕も眠くなっちゃうんだよね～～   ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ 猫又おかゆ 60万人記念 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nWTgS3JFVkk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nWTgS3JFVkk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nWTgS3JFVkk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-16T14:43:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yqjdiPXl4hJl52d8yCnH7mqHZ0c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UZWFz9xgx90"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-08T17:01:00Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】寝る前に耳かきしよっか🌠/ Ear Cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ お誕生日プレゼントでたくさん耳かきグッズ 頂いたので今日は使っていくよ～～！！！！！ 猫又おかゆ 誕生日記念2021グッズ販売中   ▸販売ページはこちらから ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UZWFz9xgx90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UZWFz9xgx90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UZWFz9xgx90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-08T17:01:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JjS0U6uUWhd03ZvowkdsXLw5kdg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oaScgaeWthg"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-10T13:39:26Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】雨音と一緒に耳かき☔/Ear Cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ これがほんとの“寝耳に水” ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ 猫又おかゆ 60万人記念ボイス販売中   ‣販売 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oaScgaeWthg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oaScgaeWthg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oaScgaeWthg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-10T13:39:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "voQB_nqASB7TC6BCP-IyeTfaGmY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w36-lIBtCLg"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-09T15:53:15Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】おやすみ前の耳かき / Ear cleaning【ホロライブ/猫又おかゆ】",
+                "description": "回線不安定になってバタバタしたので枠取り直しました；； 配信は0:30までやるよ！ ※僕とみんなのお約束※ ・コメントの感じ方は人それぞれです。 自分が不快に思ったら ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w36-lIBtCLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w36-lIBtCLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w36-lIBtCLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-09T15:53:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5zlvbuCl5V8GN6OytvSuK7EehF0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4UkajKENCqs"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-09T13:21:28Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】耳かきするよ！ポリポリ / Ear cleaning【ホロライブ/猫又おかゆ】",
+                "description": "※僕とみんなのお約束※ ・コメントの感じ方は人それぞれです。 自分が不快に思ったら静かにブロックしましょう ・他の人の配信で伝書鳩しないこと。 (おかゆんが○○って ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4UkajKENCqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4UkajKENCqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4UkajKENCqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-09T13:21:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5j7C3kI0ZJMBREhiEkkmD7sxwMc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bUg9LzKEknw"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-07T18:07:29Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】子守唄配信！ヒソヒソ…/softly song Japanese【ホロライブ/猫又おかゆ】",
+                "description": "米津玄師さんや椎名林檎さんの歌をアカペラで 子守唄風に歌います   僕とみんなのお約束 ・コメント欄で不快なコメントは触れずにブロック ・迷惑になるので伝書鳩 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bUg9LzKEknw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bUg9LzKEknw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bUg9LzKEknw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-07T18:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9GEjZ3gJNCDIE2gwe-DevWxOLpE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c0Zo-uZPoUw"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-17T15:43:06Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【耳かき/Ear cleaning】お久しぶりのASMR【ホロライブ/猫又おかゆ】",
+                "description": "【放送･関連ツイート】#生おかゆ 【絵文字】   【ファンアート】#絵かゆ 【ファンネーム】#おにぎりゃー 僕のママ：@kami_shun0505 ▷ホロライブ公式YouTubeチャンネルでも ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c0Zo-uZPoUw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c0Zo-uZPoUw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c0Zo-uZPoUw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-17T15:43:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t5LLlKAfv8SKJnMrbLk8cUFc8HM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iwB5g7-hT34"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-20T18:09:06Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】耳元でおしゃべりする【ホロライブ/猫又おかゆ】",
+                "description": "ホロライブゲーマーズ所属、猫又おかゆです  (okayu nekomata) おにぎり屋さんを経営してるばあちゃんの一人娘(猫)！ ゲームの配信が主な活動ですが,雑談やお歌の配信 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iwB5g7-hT34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iwB5g7-hT34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iwB5g7-hT34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-20T18:09:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v1pOjN-nhHN7ytcEMZ2eEjGP7yI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "djk0sAsGE7A"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-22T15:38:15Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】ほろ酔い耳かきしちゃうよ/Ear Cleaning【ホロライブ/猫又おかゆ】",
+                "description": "もしかしたら手毬ASMRになっちゃうかも。；； 僕とみんなのお約束 ・コメント欄で不快なコメントは触れずにブロック ・迷惑になるので伝書鳩しない (他のライバーが僕の ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/djk0sAsGE7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/djk0sAsGE7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/djk0sAsGE7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-22T15:38:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yuwCktDeW2Xa6vQ66XFkXcAv4d0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AjsSR6OL-lU"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-22T15:42:26Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】今月も君の耳をチェックします👂/ Ear Cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ かきかきしちゃう！ ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ 活動二周年記念グッズ販売中   可愛いアクスタや ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AjsSR6OL-lU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AjsSR6OL-lU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AjsSR6OL-lU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-22T15:42:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K30jcn3zHfSP86GnklRndRwTcN8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IzwtEMd6LF8"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-28T15:47:40Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】さあさあ耳を出したまえよ～～👂【猫又おかゆ/ホロライブ】",
+                "description": "＿ 余談 ホロライブに入ってから生まれて初めて購入した この相棒とも言えるバイノーラルマイク、 使用するのは今日で最後となります！ 耳の穴のクッションの役割をし ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IzwtEMd6LF8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IzwtEMd6LF8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IzwtEMd6LF8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-28T15:47:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VxL4dkM4czPXTtLIM8ryk5u1Mfk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Km-xmacm0qc"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-25T17:30:14Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】耳かきに初挑戦だよ！/Ear cleaning【ホロライブ/猫又おかゆ】",
+                "description": "【放送･関連ツイート】#生おかゆ 【絵文字】   【ファンアート】#絵かゆ 【ファンネーム】#おにぎりゃー 僕のママ：@kami_shun0505 ▷ホロライブ公式YouTubeチャンネルでも ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Km-xmacm0qc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Km-xmacm0qc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Km-xmacm0qc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-25T17:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wSl74bkFiQjQZ7cIJnFI8nc12qA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "asuKvMLljXg"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-08T18:01:42Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】はじめてのASMR / Japanese Trigger Words, Whispering【ホロライブ/猫又おかゆ】",
+                "description": "ホロライブゲーマーズ所属、猫又おかゆです  (okayu nekomata) おにぎり屋さんを経営してるばあちゃんの一人娘(猫)！ ゲームの配信が主な活動ですが,雑談やお歌の配信 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/asuKvMLljXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/asuKvMLljXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/asuKvMLljXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-08T18:01:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RTwhBcCJDDnSRx2lqdoCbhgHYxo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Aon2lx8tfE"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-14T14:17:03Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【歌枠】HappyValentine💕KU100で歌います(？)🎶【白銀ノエル/ホロライブ】",
+                "description": "団長からのバレンタインチョコです♥ #ノエルーム で沢山呟いてくれると嬉しいです  ✨ 素敵なイラスト：ろこ(@rocoroco1115)先生 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Aon2lx8tfE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Aon2lx8tfE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Aon2lx8tfE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-14T14:17:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b7LtCtoj7SY-o8qayRfP4zRvqX4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_gb44X05LsU"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-30T15:43:03Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【#ノエマリASMR】お泊りオフコラボ🌸団長が船長にASMRを伝授しまっする💪✨(KU100＆ダミヘ使用)【白銀ノエル/宝鐘マリン】",
+                "description": "素敵なサムネイラスト：となりける(keru720)先生   【所属会社からのお知らせ】 現在弊社タレントに対し、配信中のチャット等によりセンシティブな発言を誘発して、炎上を引き ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_gb44X05LsU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_gb44X05LsU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_gb44X05LsU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-30T15:43:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7a6FTsNaT9Yx98q5CghcabI3IxQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nGnAzZ9nc34"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-24T19:59:20Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【立体音響】KU100で感謝のスパチャお礼配信🌸【白銀ノエル/ホロライブ】",
+                "description": "深夜帰宅になるので１時以降に変更します！   35万人記念＆40万人見守り配信のスパチャをお読みしながら雑談します✨ ☆。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nGnAzZ9nc34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nGnAzZ9nc34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nGnAzZ9nc34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-24T19:59:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C0-Hxj2IbMLfJsb6WRruLvFq3aQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nAAvsS7nyCs"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-10T15:47:21Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR/KU100】ウシ娘が日々お疲れな貴方を全力で癒します🍼【白銀ノエル/ホロライブ】",
+                "description": "※2020年11月～上記内容になります。 ✥-------------------------------------------------------------------------✥ [  お約束ごと  ] ①待機所で過度なお喋りをしない ②喧嘩や荒らし ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nAAvsS7nyCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nAAvsS7nyCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nAAvsS7nyCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-10T15:47:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FC5aB0SWuEGMoDDQMKDf8LUFG3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D_STZVLfEFY"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-12T12:09:08Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【#謎肉牛丼ASMR】アフタートークと謎肉牛丼ASMR配信します！",
+                "description": "✥-------------------------------------------------------------------------✥ [  メンバーシップ開始  ] 白銀愛好会に参加しませんか？！ ▽登録はこちら▽ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D_STZVLfEFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D_STZVLfEFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D_STZVLfEFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-12T12:09:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BPp9f2v0ln5r7yK_dVk5axWA6Ic",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cPu62XQMFus"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-06T15:41:21Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR／KU100】NEW!! 新機材導入🌸春の癒しお耳掃除(Ear cleaning, Sleep, Relax...)【白銀ノエル/ホロライブ】",
+                "description": "新機材導入が間に合わなくても安眠ASMRします     #ノエルーム で沢山呟いてくれると嬉しいです  ✨ 素敵なサムネイラスト：古木 綺平さま   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cPu62XQMFus/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cPu62XQMFus/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cPu62XQMFus/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-06T15:41:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HjVof9ON1DNQKN48ljA5RvIjf04",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5LG8pxP0pkQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-20T17:20:13Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR/KU100】ARA ARA♡ネタ要素多めのお姉さんがお耳を癒します(？)♡Whispering/EarCleaning＆Massage【白銀ノエル/ホロライブ】",
+                "description": "今回のアーカイブはYouTubeの規約や収益化剥奪等のリスクも考慮し配信後メンバー限定公開になるかもしれません。 何卒...ご了承くださいませ＠＠ Thank you for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5LG8pxP0pkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5LG8pxP0pkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5LG8pxP0pkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-20T17:20:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4rauUCRHsikzYygOUPBZcTAX4yo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q9iJKmQvR18"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-23T17:21:00Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "枠バグ😫【#ノエちょこ】お泊りASMR♡あまあまな時間🌸KU100使用。【白銀ノエル/癒月ちょこ】",
+                "description": "ちょこ先生がノエスタにお泊りしにきてくれたよ～！！ 2人でASMRするの初めて！わくわくどきどき...   ちょこ先生のチャンネルも要チェック！ @Choco Ch. 癒月ちょこ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q9iJKmQvR18/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q9iJKmQvR18/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q9iJKmQvR18/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-23T17:21:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CGPDlNdxxHPMboVDNccyQKNuHfY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jDVDB22OVyI"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-07T14:29:12Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "#01【#ノエスタdeASMR講座】春の新企画🌸脳筋女騎士が天使にASMRを伝授しまっする💪✨(KU100使用／オフコラボ)【白銀ノエル/天音かなた】",
+                "description": "へっぽこ脳筋女騎士によるホロメンASMR講座[第一弾]！ 今日はASMR初心者だけど伸びしろピカイチ！かなたんがゲスト   一緒に音で遊んでいきます～！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jDVDB22OVyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jDVDB22OVyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jDVDB22OVyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-07T14:29:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2lvgRJbncQFjbs1pJEKYlUrhWbI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0BRSRenIc7s"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-20T16:28:34Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【立体音響/KU100】ママみ少し🍼ライブ前に耳掃除して備えましょう💓Mama Relax Whisper.Ear Cleaning.Ear Massage.【白銀ノエル/ホロライブ】",
+                "description": "ノエルーム で沢山呟いてくれると嬉しいです  ✨ ✥-------------------------------------------------------------------------✥ [  誕生日ボイス2020発売中  ] 今回はKU100で収録した色々 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0BRSRenIc7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0BRSRenIc7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0BRSRenIc7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-20T16:28:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a3N_q3qd6pQ4qE-GsxoYOSrX9sc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z6j6eFKJBvs"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-03T15:25:19Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR/KU100】耳の日👂全力で貴方のお耳をあまあま癒します💓Mama Relax Whisper.Ear Cleaning.Ear Massage.【白銀ノエル/ホロライブ】",
+                "description": "今日(3/3)は耳の日！ 先週は風でASMRできなかったから...リベンジ！ #ノエルーム で沢山呟いてくれると嬉しいです  ✨ ※アーカイブはYouTubeくん次第でメン限にし ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z6j6eFKJBvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z6j6eFKJBvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z6j6eFKJBvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-03T15:25:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HAxn9AplBgPP53YePez3sX8f-jc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yEeFOaBiiSo"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-17T14:29:21Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "#02【#ノエスタdeASMR講座​】講座という名の癒し空間❄二人のママが貴方のお耳で実験します🎶(KU100使用／オフコラボ)【白銀ノエル/雪花ラミィ】",
+                "description": "へっぽこ脳筋女騎士によるホロメンASMR講座[第二弾]！ 今日は既にASMRで癒しをいっぱい与えてくれてる女神ラミィちゃんとコラボ✨ もう教えることなんてないけれど.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yEeFOaBiiSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yEeFOaBiiSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yEeFOaBiiSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-17T14:29:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a0Z0DQRCtLnBqJobPecXh9ioJyE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PmoLmou3tfY"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-22T04:48:26Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【#ノエフレお泊り】昼活☀立体音響でわちゃわちゃお喋り！【白銀ノエル/不知火フレア】",
+                "description": "オフコラボいえ～い！！✨ 不知火フレア   Twitter：https://twitter.com/shiranuiflare ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PmoLmou3tfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PmoLmou3tfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PmoLmou3tfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-22T04:48:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FFKdC4If3I3pr-EUJpxHvSrEuiQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "doFzL0hJx4w"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-01T04:23:36Z",
+                "channelId": "UCCzUftO8KOVkV4wQG1vkUvg",
+                "title": "【#ノエマリASMR】お昼の咀嚼音雑談/Eating Sound【ホロライブ/宝鐘マリン・白銀ノエル】",
+                "description": "サムネイラスト…かかげ @kakage0904 ⚔白銀ノエル YouTube▷https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/doFzL0hJx4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/doFzL0hJx4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/doFzL0hJx4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marine Ch. 宝鐘マリン",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-01T04:23:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Tp8gyV6wvYS27F4WAdFIRG9yX1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lBXZJTNkyjQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-08T15:00:31Z",
+                "channelId": "UCCzUftO8KOVkV4wQG1vkUvg",
+                "title": "【ASMR/heartbeat】妖怪心音聞かせBBA【hololive/宝鐘マリン】",
+                "description": "A ghostly aunt who makes you listen to her heartbeat 突如現れ心音を聞かせてくる。 サムネイラスト… ドドタ https://twitter.com/V380089277 編集協力 兎山うさぎ(5) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lBXZJTNkyjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lBXZJTNkyjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lBXZJTNkyjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marine Ch. 宝鐘マリン",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-08T15:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OXT_x2NN5NPBNFWVV8IePLvRQO0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EnDjdI4SKWM"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-02T19:54:31Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "●⚫︎お礼枠⚫︎●モンハン〜ASMRのスパチャ感謝💝【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど いっぱいありがとうお礼雑談 メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EnDjdI4SKWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EnDjdI4SKWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EnDjdI4SKWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-02T19:54:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W_Kxed1NcfNepxEMHH-tn9oRaNQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aUsU3U4PU-w"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-29T17:27:28Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【立体音響】甘やかし/耳かき【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど 睡眠導入 メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aUsU3U4PU-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aUsU3U4PU-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aUsU3U4PU-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-29T17:27:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hhk3rMyaIXu9ddgdfv5X8hkVos4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ViTiiRxLeQo"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-29T17:38:40Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【立体音響】ささやき、癒し、お耳【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど ヘッドフォンできいてね！ メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ViTiiRxLeQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ViTiiRxLeQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ViTiiRxLeQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-29T17:38:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aNXwZi3fLzt0N2SL4xwstYSjNPA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n4IEzNdzH2s"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-01T18:07:05Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】おやすみ前の癒しの耳かき/囁き【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど ５月もよろしくね～☆癒しのるしあ！ メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n4IEzNdzH2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n4IEzNdzH2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n4IEzNdzH2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-01T18:07:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BSsswbqNRY3_lRX13pRiPxrx6hU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4cJ3qAjwq94"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-02T16:13:00Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】優しく囁きながら耳かき（NEW機材）【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど 優しく包み込みます・・・(*´ω`*) メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4cJ3qAjwq94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4cJ3qAjwq94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4cJ3qAjwq94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-02T16:13:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-jHMdzFY1IFocj8M38PiaFUznmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uhLILxWUs90"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-28T16:13:49Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【立体音響】妹が癒してあげる…耳かき囁き【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど たくさん癒すよ(*´ω｀*) メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uhLILxWUs90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uhLILxWUs90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uhLILxWUs90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-28T16:13:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VlVjwuYDjCxi-FhHMNEFE5ECkDE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kjs3kobQBh0"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-01T17:32:55Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】甘やかし彼女🌟耳かき/囁き/吐息【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ ６月  今日はみんなといちゃいちゃしたいです。。。。だめかな？ 潤羽るしあ 100万人記念 やすゆき先生描き下ろし抱き枕カバーグッズ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kjs3kobQBh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kjs3kobQBh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kjs3kobQBh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-01T17:32:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BP85WEsFbW54qN8Crgq7FrgtK9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A8LLOaiawM0"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-11T16:34:09Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【睡眠導入】夜のやさしい耳かき【ホロライブ/潤羽るしあ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど 本日秋ボイスが発売されました！！！おもいをこめました(#^.^#) ⇩ https://hololive.booth.pm/items/1688791 メンバーシップ解禁 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A8LLOaiawM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A8LLOaiawM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A8LLOaiawM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-11T16:34:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rvx2asIafvLRqPrug9Jao4KRe_w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tc8AlL27G7A"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-27T16:23:44Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【睡眠導入】バグ枠；；シチュエーション☆囁きと耳かき【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ #ふぁんでっど 新しいマイクです！！わくわく メンバーシップ解禁しました   メンバーになってるしあのファミーユさんになりませんか？",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tc8AlL27G7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tc8AlL27G7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tc8AlL27G7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-27T16:23:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7JLzgEjWKXqaiHMRBb3sAU4YUyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mXOF0_qy8vI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-31T16:06:42Z",
+                "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+                "title": "【#お泊まり同居ーず】★ASMR女子会★【ホロライブ】",
+                "description": "お泊まり同居ーず でツイート！！ ☆星街すいせい https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A ☆桐生ココ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mXOF0_qy8vI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mXOF0_qy8vI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mXOF0_qy8vI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kanata Ch. 天音かなた",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-31T16:06:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jt69L7ehcOo1LSgWFCTWo97uDJk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "icXAi_uCow8"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-24T16:38:29Z",
+                "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+                "title": "【ASMR】50万人ありがとう♥立体音響スパチャ読み/Whispering&amp;Massage🎶【天音かなた/ホロライブ】",
+                "description": "スパチャ読むまったり枠！！ #天界学園放送部 --------------------------------------------------------------------------------- ⭐メンバーシップ THE かなた☆へようこそ     いっぱい ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/icXAi_uCow8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/icXAi_uCow8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/icXAi_uCow8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kanata Ch. 天音かなた",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-24T16:38:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iysHNjZdv3RZKvPcrnig6jl-e9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pvvUD3hpqOQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-16T16:19:42Z",
+                "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+                "title": "Sample ASMR/We&#39;ll do it again soon!",
+                "description": "ユーチューブぐるぐるに負けたのでちかぢかまたやる.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pvvUD3hpqOQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pvvUD3hpqOQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pvvUD3hpqOQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kanata Ch. 天音かなた",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-16T16:19:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YKzo4F8HVkFg20D8HW8m_eBqFeA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "62Z8dsmzkS8"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-01T15:10:13Z",
+                "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w",
+                "title": "【ASMR】サラウンド脱毛【ホロライブ/桐生ココ】",
+                "description": "みんなの耳元で…   脱毛…   ☆Memberships to support Coco☆ https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w/join □桐生ココグッズ販売中！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/62Z8dsmzkS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/62Z8dsmzkS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/62Z8dsmzkS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coco Ch. 桐生ココ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-01T15:10:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x45IJ09OSQEq9qNhH3daRpG2ACs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s-OgsOXiKFE"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-11T13:06:11Z",
+                "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w",
+                "title": "【#桐生ココの怖い話】ASMR怪談話‥‥【ヘッドホン推奨】",
+                "description": "視聴者のみなさんからいただいた恐ろしい怪談話を 語りべのいながわココじが、ASMRマイクでじっとりと語る・・・！ ※イヤホン・ヘッドホンでの視聴を推奨します ※動画途中 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s-OgsOXiKFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s-OgsOXiKFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s-OgsOXiKFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coco Ch. 桐生ココ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-11T13:06:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MTIew6XMaNbBLwW6c1whPPDvOK8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2rOsa2StCAg"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-20T14:10:12Z",
+                "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w",
+                "title": "【#いながわココじの怖い話】ASMR怪談話‥其の二‥【ヘッドホン推奨】",
+                "description": "視聴者のみなさんからいただいた恐ろしい怪談話を語り部：いながわココじが、ASMRマイクでじっとりと語る配信第二弾！ ※イヤホン・ヘッドホンでの視聴を推奨します ※本 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2rOsa2StCAg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2rOsa2StCAg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2rOsa2StCAg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coco Ch. 桐生ココ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-20T14:10:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3Q-oenS2dFH4mEjFBeftgGobgNw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6JWt-YVwz1o"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-07T16:36:29Z",
+                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
+                "title": "【七夕企画】おそうめんASMRで涼をとっちゃうのら✨【姫森ルーナ/ホロライブ】",
+                "description": "Twitterハッシュタグ #なのらいぶ #姫森ルーナ でツイートね♡ サムネファンアート➾MERU3さん https://twitter.com/meru_corone ※咀嚼音注意※ おそうめんをすするので ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JWt-YVwz1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JWt-YVwz1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JWt-YVwz1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luna Ch. 姫森ルーナ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-07T16:36:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tXzcBS0KwxhogBs3pa0wx0UHjv8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zkTl6QmKQOM"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-10T17:11:43Z",
+                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
+                "title": "【 スパチャ読み雑談 】バイノーラルマイクで音遊びしながらなのら！Binaural Mic【姫森ルーナ/ホロライブ】",
+                "description": "zzz 姫森ルーナ 誕生日記念ボイス2020⭐記念ボイス＆記念グッズ 誕生日の記念にぜひ…",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luna Ch. 姫森ルーナ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-10T17:11:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hHQC5S4hKBjXt2XaAmh70xaTsgM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rqZCvizEPFU"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-09T02:46:30Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【KU100】朝の生活音ASMR雑談【雪花ラミィ/ホロライブ】",
+                "description": "ホロライブ5期生の雪花ラミィ（Yukihana Lamy）です❄ KU100を使用した生活音ASMR雑談です。 雑談少な目で、作業音やコーヒー作って飲んだり。 #らみらいぶ #雪花 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rqZCvizEPFU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rqZCvizEPFU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rqZCvizEPFU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-09T02:46:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0eRjb5c2cB8e2qaovL6LyN4rCL8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "duVfGtSSmFY"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-21T04:42:48Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【立体音響】KU100で朝活雑談【4月21日】",
+                "description": "一緒に朝コーヒー飲みながらまったり雑談しよう❄ #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイルのイラスト yuzuki4noさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/duVfGtSSmFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/duVfGtSSmFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/duVfGtSSmFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-21T04:42:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4XiQSoJekPqhGwTGS5Rk8fhSA24",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r4CjgShuhFg"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-23T16:38:04Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【立体音響/KU100】夜のひそひそ♡囁き雑談【雪花ラミィ/ホロライブ】",
+                "description": "環境音＆耳元での雑談配信   ※睡眠導入ASMRではありません   #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル ふちさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r4CjgShuhFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r4CjgShuhFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r4CjgShuhFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-23T16:38:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wkqlC3XAVjC2yuZc1qyVqDV6-40",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1v-xxcuIUCc"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-03T15:09:58Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】全肯定囁き♡マッサージ＆耳かき（Oil Massage/Ear Blowing）【雪花ラミィ/ホロライブ】",
+                "description": "一週間頑張ったあなたに… #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル ゅんさま https://twitter.com/ll_yun_ll ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1v-xxcuIUCc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1v-xxcuIUCc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1v-xxcuIUCc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-03T15:09:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SIyhHaQLXsG6IBRYDtJFM2RDTWI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "84ro5HqX_ag"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-13T15:06:10Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR/黒3Dio】耳かき中心ASMR♡Sleep &amp; Relax/Ear Blowing【雪花ラミィ/ホロライブ】",
+                "description": "初めての黒3Dioであなたのお耳をお掃除します♡ #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル nnesoさま https://twitter.com/meron_tbti444 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/84ro5HqX_ag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/84ro5HqX_ag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/84ro5HqX_ag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-13T15:06:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x91nzZUv9epEi8hsjpDmycoxBCg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S14PPvor_Rk"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-16T15:14:32Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】寝る前に耳かき＆マッサージはいかがですか？（Oil Massage/Ear Blowing）【雪花ラミィ/ホロライブ】",
+                "description": "一週間頑張ったあなたに… 明日のコラボ前に練習もさせてほしいな♡ #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル HAONIさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S14PPvor_Rk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S14PPvor_Rk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S14PPvor_Rk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-16T15:14:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iklqpj4i9xHBHPoNp2JP9Xk93HA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zmEKY3vv0oY"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-15T15:55:00Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【KU100】寝る前生活音♡ASMR【雪花ラミィ/ホロライブ】",
+                "description": "ドライヤー、化粧水など寝る前の生活音+囁き… 同棲感覚で一緒に寝る前の準備をしよう   #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル ふちさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zmEKY3vv0oY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zmEKY3vv0oY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zmEKY3vv0oY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-15T15:55:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KjjhQRBp_mCX7Lj0aMoQS7oEBv4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w8znycDFPtU"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-22T01:50:12Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【KU100】寝起きASMR雑談｜生活音多め【雪花ラミィ/ホロライブ】",
+                "description": "ホロライブ5期生の雪花ラミィ（Yukihana Lamy）です❄ KU100を使用した寝起きASMR雑談です。 生活音多めなのでご注意を…！ #らみらいぶ #雪花ラミィ で呟いて頂け ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w8znycDFPtU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w8znycDFPtU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w8znycDFPtU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-22T01:50:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1Ejd513WEbt4rEoORUXT55Eo2LY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TdSXrE2f-_g"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-26T15:15:45Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】睡眠導入♡癒しのオイル（囁き/耳かき/オイルマッサージ）【雪花ラミィ/ホロライブ】",
+                "description": "おやすみなさい、ご主人様♡ ※シチュエーションじゃないよ #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル 笠木さま https://twitter.com/kasagland2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TdSXrE2f-_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TdSXrE2f-_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TdSXrE2f-_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-26T15:15:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MLtS7ODdeXgJFujz5oA3ipPIa7Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FkkRgtfhAGM"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-09T15:12:42Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR/黒3Dio】あなたを全肯定♡睡眠導入に…（囁き/オイルマッサージ/炭酸泡/心音）【雪花ラミィ/ホロライブ】",
+                "description": "一週間頑張ったあなたに…♡ #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル りんごぱんさま https://twitter.com/appurubaiya1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FkkRgtfhAGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FkkRgtfhAGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FkkRgtfhAGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-09T15:12:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HXZq-J5HEygay7_nRhj1H9Helcc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "93Sy4lDSTnA"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-09T17:53:56Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【立体音響】君の隣でほろ酔い晩酌♡【雪花ラミィ/ホロライブ】",
+                "description": "KU100でバイノーラル晩酌！ 華金はラミィのお部屋で一緒に晩酌しよう     #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル 天音そらさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/93Sy4lDSTnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/93Sy4lDSTnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/93Sy4lDSTnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-09T17:53:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E_YEWP50sHThZWWe7wcF0ceo52k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QIxo7Kz2Q3I"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-29T16:34:31Z",
+                "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+                "title": "【ASMR…？】🍑眠いねねの小声雑談🍑【桃鈴ねね/ ホロライブ】",
+                "description": "期待しない枠 新しい機材を導入してみたので、実験も兼ねてです！✨ 眠さが限界を超えたら終わります… Lunch with me   https://nene.streamlink.to/Lunchwithme ね ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QIxo7Kz2Q3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QIxo7Kz2Q3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QIxo7Kz2Q3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nene Ch.桃鈴ねね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-29T16:34:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L1cQ77bEju3FwfsD2d-2W4Hlc-4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4oots7jSUSM"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-26T14:27:37Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】永遠に全体公開できる健全なささやき(Whispering)【ホロライブ/尾丸ポルカ】",
+                "description": "さいきんのことをまっさり まっさり・・・？ ※アーカイブも永遠に全体公開します がんばろう そのままメン限もやるよ～ https://youtu.be/YZrp7iyK15M サムネ：Mr_Lobsterさま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4oots7jSUSM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4oots7jSUSM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4oots7jSUSM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-26T14:27:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MHpNOWGst5kYIPwKSxfBLk8e4zQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C81s4SkirUU"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-25T03:05:07Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】隣は昼にささやく人ぞ(Whisper)【ホロライブ/尾丸ポルカ】",
+                "description": "30分間だけ サムネ：罪恋さま https://twitter.com/3SG_zairen ◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇ 【所属会社からのお知らせ】 現在弊社タレントに対し、 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C81s4SkirUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C81s4SkirUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C81s4SkirUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-25T03:05:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cQwUZIClpr8yGlEzscP6mU12byc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tLKGN2wuHas"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-29T14:00:51Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】永遠全体公開💙ささやき💙いちゃいちゃ💙みみかき(Whispering&amp;Relaxing)【尾丸ポルカ/ホロライブ】",
+                "description": "タイトル書きながら笑ってもうた サムネ：東暮さま https://twitter.com/HgHgure ◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇ 【所属会社からのお知らせ】 現在弊社 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tLKGN2wuHas/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tLKGN2wuHas/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tLKGN2wuHas/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-29T14:00:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K-q5FILqg_yYkgfwdFFIsie6V0w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L6EcpicXa7g"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-07T12:45:03Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】全体公開💖ささやき💖メン限サンプル動画【ホロライブ/尾丸ポルカ】",
+                "description": "全体公開でもいつかやりたいけど。。。はずかし！ サムネイラスト：カジノさん https://twitter.com/CasinoEP ◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇+｡･ﾟ*:｡+◇ 【所属会社 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L6EcpicXa7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L6EcpicXa7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L6EcpicXa7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-07T12:45:03Z"
             }
         }
     ]
