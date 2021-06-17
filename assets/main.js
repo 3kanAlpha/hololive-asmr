@@ -58,3 +58,40 @@ function buildList() {
         vm.items.push({ title: a, name: b, img: c, link: l, date: d });
     }
 }
+
+$(function() {
+    const reb = document.getElementById("rebuild");
+    reb.addEventListener('click', buildListByKeywords, false);
+})
+
+function buildListByKeywords() {
+    const FORM = document.forms.search;
+    const KEYWORDS = FORM.keywords.value;
+
+    if (KEYWORDS.length == 0) return;
+
+    const KEYWORD = KEYWORDS.split(' ');
+
+    resetVM();
+
+    const sf = shuffleList(videos);
+
+    for (let i = 0; i < videos.length; i++) {
+        let flag = false;
+
+        const v = sf[i];
+        // エスケープ修正
+        const a = v.snippet.title.replace(/&amp;/g, '&');
+        const b = v.snippet.channelTitle;
+        const c = v.snippet.thumbnails.medium.url;
+        const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
+        const d = v.snippet.publishedAt.substring(0, 10);
+
+        for (let j = 0; j < KEYWORD.length; j++) {
+            flag = flag || (a.includes(KEYWORD[j]));
+            flag = flag || (b.includes(KEYWORD[j]));
+        }
+
+        if (flag) vm.items.push({ title: a, name: b, img: c, link: l, date: d });
+    }
+}
