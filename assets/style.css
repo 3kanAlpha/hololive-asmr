@@ -6,3 +6,7 @@ body {
 #about {
     padding-top: 60px;
 }
+
+#about h1 {
+    font-family: 'Righteous', cursive;
+}

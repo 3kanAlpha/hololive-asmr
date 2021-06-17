@@ -32,7 +32,8 @@ function buildList() {
         const b = v.snippet.channelTitle;
         const c = v.snippet.thumbnails.medium.url;
         const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
+        const d = v.snippet.publishedAt.substring(0, 10);
 
-        vm.items.push({ title: a, name: b, img: c, link: l });
+        vm.items.push({ title: a, name: b, img: c, link: l, date: d });
     }
 }

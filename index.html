@@ -12,7 +12,7 @@
 
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
     </head>
     <body class="d-flex flex-column h-100">
         <div id="page">
@@ -65,7 +65,10 @@
                                     <div class="card-body">
                                         <h5 class="card-title">{{ item.title }}</h5>
                                         <p class="card-text">Streamer: {{ item.name }}</p>
-                                        <a v-bind:href="item.link" class="btn btn-sm btn-outline-secondary" target="_blank" rel="noopener noreferrer">見る</a>
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <a v-bind:href="item.link" class="btn btn-sm btn-outline-secondary" target="_blank" rel="noopener noreferrer">見る</a>
+                                            <small class="text-muted">{{ item.date }}</small>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
