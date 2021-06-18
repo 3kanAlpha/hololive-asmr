@@ -94,6 +94,4 @@ function buildListByKeywords() {
     }
 
     if (!vm.init) vm.init = true;
-    
-    // console.log("List size=" + vm.items.length);
 }
