@@ -10,3 +10,11 @@ body {
 #about h1 {
     font-family: 'Righteous', cursive;
 }
+
+.card {
+    transition-duration: .3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
