@@ -55,6 +55,10 @@ function getNameById(channelId) {
     return "Unknown";
 }
 
+function fixTitle(s) {
+    return s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+}
+
 $(function() {
     const reb = document.getElementById("rebuild");
     reb.addEventListener('click', buildListByKeywords, false);
@@ -78,7 +82,7 @@ function buildListByKeywords() {
 
         const v = sf[i];
         // エスケープ修正
-        const a = v.snippet.title.replace(/&amp;/g, '&');
+        const a = fixTitle(v.snippet.title);
         const b = v.snippet.channelTitle;
         const n = getNameById(v.snippet.channelId);
         const c = v.snippet.thumbnails.medium.url;
