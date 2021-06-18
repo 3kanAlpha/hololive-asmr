@@ -85,10 +85,9 @@ function buildListByKeywords() {
         const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
         const d = v.snippet.publishedAt.substring(0, 10);
 
+        // OR検索
         for (let j = 0; j < KEYWORD.length; j++) {
-            canPush = canPush || (a.includes(KEYWORD[j]));
-            canPush = canPush || (b.includes(KEYWORD[j]));
-            canPush = canPush || (n.includes(KEYWORD[j]));
+            canPush = canPush || ((a + "@" + b + "@" + n).includes(KEYWORD[j]));
         }
 
         if (canPush) vm.items.push({ title: a, name: n, img: c, link: l, date: d });
