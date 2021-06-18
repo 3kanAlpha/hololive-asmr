@@ -2,7 +2,8 @@
 const app = Vue.createApp({
     data() {
       return {
-        items: []
+        items: [],
+        init: false
       }
     },
     mounted() {
@@ -22,10 +23,10 @@ $(function() {
     
             console.log("JSON loaded successfully. size=" + videos.length);
         })
-    ).done(buildList);
+    ).done(buildListByKeywords);
 });
 
-// Return the random value in [0, max)
+// Return a random value in [0, max)
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
@@ -43,20 +44,15 @@ function shuffleList(arr) {
     return arr;
 }
 
-function buildList() {
-    const sf = shuffleList(videos);
+function getNameById(channelId) {
+    const chs = data['channels'];
 
-    for (let i = 0; i < videos.length; i++) {
-        const v = sf[i];
-        // エスケープ修正
-        const a = v.snippet.title.replace(/&amp;/g, '&');
-        const b = v.snippet.channelTitle;
-        const c = v.snippet.thumbnails.medium.url;
-        const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
-        const d = v.snippet.publishedAt.substring(0, 10);
-
-        vm.items.push({ title: a, name: b, img: c, link: l, date: d });
+    for (let i = 0; i < chs.length; i++) {
+        const ch = chs[i];
+        if (ch.channelId == channelId) return ch.name;
     }
+
+    return "Unknown";
 }
 
 $(function() {
@@ -67,8 +63,9 @@ $(function() {
 function buildListByKeywords() {
     const FORM = document.forms.search;
     const KEYWORDS = FORM.keywords.value;
+    const hasKeywords = (KEYWORDS.length > 0);
 
-    if (KEYWORDS.length == 0) return;
+    if (!hasKeywords && vm.init) return;
 
     const KEYWORD = KEYWORDS.split(' ');
 
@@ -77,21 +74,27 @@ function buildListByKeywords() {
     const sf = shuffleList(videos);
 
     for (let i = 0; i < videos.length; i++) {
-        let flag = false;
+        let canPush = !hasKeywords;
 
         const v = sf[i];
         // エスケープ修正
         const a = v.snippet.title.replace(/&amp;/g, '&');
         const b = v.snippet.channelTitle;
+        const n = getNameById(v.snippet.channelId);
         const c = v.snippet.thumbnails.medium.url;
         const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
         const d = v.snippet.publishedAt.substring(0, 10);
 
         for (let j = 0; j < KEYWORD.length; j++) {
-            flag = flag || (a.includes(KEYWORD[j]));
-            flag = flag || (b.includes(KEYWORD[j]));
+            canPush = canPush || (a.includes(KEYWORD[j]));
+            canPush = canPush || (b.includes(KEYWORD[j]));
+            canPush = canPush || (n.includes(KEYWORD[j]));
         }
 
-        if (flag) vm.items.push({ title: a, name: b, img: c, link: l, date: d });
+        if (canPush) vm.items.push({ title: a, name: n, img: c, link: l, date: d });
     }
+
+    if (!vm.init) vm.init = true;
+    
+    // console.log("List size=" + vm.items.length);
 }
