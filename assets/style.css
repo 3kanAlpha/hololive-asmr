@@ -11,6 +11,10 @@ body {
     font-family: 'Righteous', cursive;
 }
 
+.card h5 {
+    font-family: 'Kiwi Maru', serif;
+}
+
 .card {
     transition-duration: .3s;
 }
