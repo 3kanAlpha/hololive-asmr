@@ -84,6 +84,8 @@ function buildListByKeywords() {
     if (!vm.init) vm.init = true;
 }
 
+const YOUTUBE_URL_BASE = "https://www.youtube.com/watch?v=";
+
 // 与えられたリストを表示させる
 function buildList(toBuild) {
     resetVM();
@@ -93,7 +95,7 @@ function buildList(toBuild) {
         const a = fixTitle(video.snippet.title);
         const n = getNameById(video.snippet.channelId);
         const c = video.snippet.thumbnails.medium.url;
-        const l = "https://www.youtube.com/watch?v=" + video.id.videoId;
+        const l = YOUTUBE_URL_BASE + video.id.videoId;
         const d = video.snippet.publishedAt.substring(0, 10);
 
         vm.items.push({ title: a, name: n, img: c, link: l, date: d });
@@ -132,5 +134,5 @@ function getFilteredList(filters) {
 // 現在表示されている動画からランダムに1つ選択
 function getRandomVideoURL() {
     const i = getRandomInt(currentList.length);
-    window.open("https://www.youtube.com/watch?v=" + currentList[i].id.videoId, '_blank');
+    window.open(YOUTUBE_URL_BASE + currentList[i].id.videoId, '_blank');
 }
