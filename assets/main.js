@@ -26,15 +26,17 @@ $(function() {
     ).done(buildListByKeywords);
 });
 
-// Return a random value in [0, max)
+// [0, max)の整数値をとる一様乱数
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 
+// Appのdataの初期化
 function resetVM() {
-    for (let i = 0; i < videos.length; i++) vm.items.pop();
+    while(vm.items.length > 0) vm.items.pop();
 }
 
+// Arrayをシャッフルする
 function shuffleList(arr) {
     for (let i = arr.length; 1 < i; i--) {
         k = getRandomInt(i);
@@ -44,6 +46,7 @@ function shuffleList(arr) {
     return arr;
 }
 
+// channelIdから配信者名を逆引きする
 function getNameById(channelId) {
     const chs = data['channels'];
 
@@ -55,6 +58,7 @@ function getNameById(channelId) {
     return "Unknown";
 }
 
+// エスケープされた文字の修正
 function fixTitle(s) {
     return s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 }
@@ -67,35 +71,54 @@ $(function() {
 function buildListByKeywords() {
     const FORM = document.forms.search;
     const KEYWORDS = FORM.keywords.value;
-    const hasKeywords = (KEYWORDS.length > 0);
-
-    if (!hasKeywords && vm.init) return;
-
-    const KEYWORD = KEYWORDS.split(' ');
 
     resetVM();
 
-    const sf = shuffleList(videos);
+    let arr = getFilteredList(KEYWORDS);
+    console.log("items.length=" + arr.length);
+    arr = shuffleList(arr);
+    buildList(arr);
+
+    if (!vm.init) vm.init = true;
+}
+
+function buildList(toBuild) {
+    for (let i = 0; i < toBuild.length; i++) {
+        const video = toBuild[i];
+        const a = fixTitle(video.snippet.title);
+        const n = getNameById(video.snippet.channelId);
+        const c = video.snippet.thumbnails.medium.url;
+        const l = "https://www.youtube.com/watch?v=" + video.id.videoId;
+        const d = video.snippet.publishedAt.substring(0, 10);
+
+        vm.items.push({ title: a, name: n, img: c, link: l, date: d });
+    }
+}
+
+function getFilteredList(filters) {
+    const hasKeywords = (filters.length > 0);
+
+    if (!hasKeywords) return videos;
+
+    const KEYWORD = filters.split(' ');
+
+    let ret = [];
 
     for (let i = 0; i < videos.length; i++) {
-        let canPush = !hasKeywords;
+        const video = videos[i];
+        const a = fixTitle(video.snippet.title);
+        const b = video.snippet.channelTitle;
+        const n = getNameById(video.snippet.channelId);
 
-        const v = sf[i];
-        // エスケープ修正
-        const a = fixTitle(v.snippet.title);
-        const b = v.snippet.channelTitle;
-        const n = getNameById(v.snippet.channelId);
-        const c = v.snippet.thumbnails.medium.url;
-        const l = "https://www.youtube.com/watch?v=" + v.id.videoId;
-        const d = v.snippet.publishedAt.substring(0, 10);
+        let canPush = false;
 
         // OR検索
         for (let j = 0; j < KEYWORD.length; j++) {
             canPush = canPush || ((a + "@" + b + "@" + n).includes(KEYWORD[j]));
         }
 
-        if (canPush) vm.items.push({ title: a, name: n, img: c, link: l, date: d });
+        if (canPush) ret.push(video);
     }
 
-    if (!vm.init) vm.init = true;
+    return ret;
 }
