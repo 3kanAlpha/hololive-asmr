@@ -128,3 +128,9 @@ function getFilteredList(filters) {
 
     return ret;
 }
+
+// 現在表示されている動画からランダムに1つ選択
+function getRandomVideoURL() {
+    const i = getRandomInt(currentList.length);
+    window.open("https://www.youtube.com/watch?v=" + currentList[i].id.videoId, '_blank');
+}
