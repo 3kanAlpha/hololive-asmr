@@ -17,7 +17,7 @@ let videos;
 
 $(function() {
     $.when(
-        $.getJSON('assets/data_20210617_174024.json', function(e) {
+        $.getJSON('assets/data-20210619-192508.json', function(e) {
             data = e;
             videos = data['videos'];
     
@@ -68,21 +68,26 @@ $(function() {
     reb.addEventListener('click', buildListByKeywords, false);
 })
 
+let currentList;
+// const VIDEOS_PER_PAGE = 30;
+
 function buildListByKeywords() {
     const FORM = document.forms.search;
     const KEYWORDS = FORM.keywords.value;
 
-    resetVM();
+    const arr = getFilteredList(KEYWORDS);
+    currentList = shuffleList(arr);
+    console.log(currentList.length + " videos loaded.");
 
-    let arr = getFilteredList(KEYWORDS);
-    console.log("items.length=" + arr.length);
-    arr = shuffleList(arr);
-    buildList(arr);
+    buildList(currentList);
 
     if (!vm.init) vm.init = true;
 }
 
+// 与えられたリストを表示させる
 function buildList(toBuild) {
+    resetVM();
+
     for (let i = 0; i < toBuild.length; i++) {
         const video = toBuild[i];
         const a = fixTitle(video.snippet.title);
@@ -95,6 +100,7 @@ function buildList(toBuild) {
     }
 }
 
+// OR検索する
 function getFilteredList(filters) {
     const hasKeywords = (filters.length > 0);
 

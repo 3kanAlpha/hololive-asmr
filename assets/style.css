@@ -15,6 +15,14 @@ body {
     transition-duration: .3s;
 }
 
-.card:hover{
+.card:hover {
     transform: scale(1.05);
+}
+
+.card-thumbnail {
+    transition-duration: .3s;
+}
+
+.card:hover .card-thumbnail {
+    filter: brightness(110%) sepia(10%);
 }
