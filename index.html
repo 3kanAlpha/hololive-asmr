@@ -35,14 +35,21 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:getRandomVideoURL();"><i class="bi bi-question-circle"></i> Random</a>
+                                <a class="nav-link" href="javascript:getRandomVideoURL();"><i class="bi bi-question-circle"></i><span class="text-with-icon">Random</span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://github.com/3kanAlpha/hololive-asmr" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i></a>
+                                <a class="nav-link" href="https://github.com/3kanAlpha/hololive-asmr" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i><span class="text-with-icon">GitHub</span></a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://twitter.com/luigi_0829_2" target="_blank" rel="noopener noreferrer"><i class="bi bi-twitter"></i></a>
-                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="bi bi-share-fill"></i><span class="text-with-icon">Share</span>
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <li>
+                                        <a class="dropdown-item" href="http://twitter.com/share?url=https%3A%2F%2F3kanalpha.github.io%2Fhololive-asmr%2F&text=ASMR+sounds+of+hololive&via=luigi_0829_2" target="_blank" rel="noopener noreferrer">Twitter</a>
+                                    </li>
+                                </ul>
+                              </li>
                             </ul>
                             <form class="d-flex" name="search" onsubmit="return false;">
                                 <input class="form-control me-2" name="keywords" type="search" placeholder="配信者名 / 配信タイトル / ..." aria-label="Search">
@@ -57,7 +64,7 @@
                     <div class="row py-lg-5" id="about">
                         <div class="col-lg-6 col-md-8 mx-auto">
                             <h1 class="fw-light">ASMR sounds of hololive</h1>
-                            <p class="lead text-muted">ぼちぼち開発中。</p>
+                            <p class="lead text-muted">ASMR Stream Is All You Need</p>
                             <p>
                                 <a href="https://github.com/3kanAlpha/hololive-asmr/wiki" class="btn btn-primary my-2" target="_blank" rel="noopener noreferrer" data-bs-toggle="tooltip" data-bs-placement="top" title="詳しい使い方などはこちら">Wiki</a>
                             </p>
@@ -75,7 +82,7 @@
                                         <h5 class="card-title">{{ item.title }}</h5>
                                         <p class="card-text">Streamer: {{ item.name }}</p>
                                         <div class="d-flex justify-content-between align-items-center">
-                                            <a v-bind:href="item.link" class="btn btn-sm btn-outline-secondary" target="_blank" rel="noopener noreferrer">見る</a>
+                                            <a v-bind:href="item.link" class="btn btn-outline-danger" target="_blank" rel="noopener noreferrer"><i class="bi bi-youtube"></i><span class="text-with-icon">Play</span></a>
                                             <small class="text-muted">{{ item.date }}</small>
                                         </div>
                                     </div>

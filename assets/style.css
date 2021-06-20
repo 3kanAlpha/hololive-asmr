@@ -28,5 +28,9 @@ body {
 }
 
 .card:hover .card-thumbnail {
-    filter: brightness(110%) sepia(10%);
+    filter: brightness(105%) sepia(5%);
+}
+
+.text-with-icon {
+    margin-left: 5px;
 }
