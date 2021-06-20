@@ -17,7 +17,7 @@ let videos;
 
 $(function() {
     $.when(
-        $.getJSON('assets/data-20210619-192508.json', function(e) {
+        $.getJSON('assets/data-20210621-000004.json', function(e) {
             data = e;
             videos = data['videos'];
     
@@ -86,6 +86,17 @@ function buildListByKeywords() {
 
 const YOUTUBE_URL_BASE = "https://www.youtube.com/watch?v=";
 
+function buildYouTubeURL(s) {
+    return YOUTUBE_URL_BASE + s;
+}
+
+// 高画質なサムネイルが利用可能なら使う
+function getThumbnailURL(video) {
+    const th = video.snippet.thumbnails;
+    if ("maxres" in th) return th.maxres.url;
+    else return th.medium.url;
+}
+
 // 与えられたリストを表示させる
 function buildList(toBuild) {
     resetVM();
@@ -94,8 +105,8 @@ function buildList(toBuild) {
         const video = toBuild[i];
         const a = fixTitle(video.snippet.title);
         const n = getNameById(video.snippet.channelId);
-        const c = video.snippet.thumbnails.medium.url;
-        const l = YOUTUBE_URL_BASE + video.id.videoId;
+        const c = getThumbnailURL(video);
+        const l = buildYouTubeURL(video.id.videoId);
         const d = video.snippet.publishedAt.substring(0, 10);
 
         vm.items.push({ title: a, name: n, img: c, link: l, date: d });
@@ -134,5 +145,5 @@ function getFilteredList(filters) {
 // 現在表示されている動画からランダムに1つ選択
 function getRandomVideoURL() {
     const i = getRandomInt(currentList.length);
-    window.open(YOUTUBE_URL_BASE + currentList[i].id.videoId, '_blank');
+    window.open(buildYouTubeURL(currentList[i].id.videoId), '_blank');
 }
