@@ -36,14 +36,12 @@ function resetVM() {
     while(vm.items.length > 0) vm.items.pop();
 }
 
-// Arrayをシャッフルする
+// Arrayをシャッフルする (Durstenfeld)
 function shuffleList(arr) {
     for (let i = arr.length; 1 < i; i--) {
         k = getRandomInt(i);
         [arr[k], arr[i - 1]] = [arr[i - 1], arr[k]];
     }
-
-    return arr;
 }
 
 // channelIdから配信者名を逆引きする
@@ -75,8 +73,8 @@ function buildListByKeywords() {
     const FORM = document.forms.search;
     const KEYWORDS = FORM.keywords.value;
 
-    const arr = getFilteredList(KEYWORDS);
-    currentList = shuffleList(arr);
+    currentList = getFilteredList(KEYWORDS);
+    shuffleList(currentList);
     console.log(currentList.length + " videos loaded.");
 
     buildList(currentList);
