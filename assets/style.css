@@ -11,6 +11,10 @@ body {
     font-family: 'Righteous', cursive;
 }
 
+#about .lead {
+    font-family: 'Roboto', sans-serif;
+}
+
 .card h5 {
     font-family: 'Kiwi Maru', serif;
 }
