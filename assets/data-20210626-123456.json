@@ -7587,6 +7587,152 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-12-25T09:33:04Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eU9tUAgHCcztwtHCxSIDV_eRy1Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xxpHYi8pNN8"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-31T19:22:02Z",
+                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+                "title": "【ASMR】安眠誘導。眠るまでそばに…君の耳元で吐息・囁き・マッサージ(Triggers For Sleep &amp;Whispering＆Relaxing)【ホロライブ/ロボ子さん】",
+                "description": "６月初めてのＡＳＭｒ #ロボ子生放送#ロボ子Art ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xxpHYi8pNN8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xxpHYi8pNN8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xxpHYi8pNN8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roboco Ch. - ロボ子",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-31T19:22:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8qPKV2BbW5sDptX6Rlz-1VL3QU4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GBWz_9abI6o"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-13T16:34:54Z",
+                "channelId": "UCFTLzh12_nrtzqBPsTCqenA",
+                "title": "【立体音響映像付き】唐揚げ１kg揚げるまで終われまてん！初めての料理配信【Vtuber/ホロライブ】",
+                "description": "生活音ASMRって実は落ち着くらしいよ！ 超美麗3DCGでお送り？する深夜の唐揚げ1kg揚げるまで終われまてん！ ホロライブ１期生Vtuber/アキ・ローゼンタール   異 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GBWz_9abI6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GBWz_9abI6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GBWz_9abI6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GBWz_9abI6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "アキロゼCh。Vtuber/ホロライブ所属",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-13T16:34:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9OWVv5gLLhNdyRRpzQJuTxyiuWc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sj3yVaqj_Lw"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-22T12:29:45Z",
+                "channelId": "UCFTLzh12_nrtzqBPsTCqenA",
+                "title": "【立体音響映像付き】超絶品‼Vtuberの餃子作り！！【アキロゼ/ホロライブ】",
+                "description": "生活音ASMRって実は落ち着くらしいよ！ 超美麗3DCGでお送り？する深夜に餃子作りに挑戦します！！ ホロライブ１期生Vtuber/アキ・ローゼンタール   異世界から ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sj3yVaqj_Lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sj3yVaqj_Lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sj3yVaqj_Lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "アキロゼCh。Vtuber/ホロライブ所属",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-22T12:29:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ri0F-EkgVJtH6PEAowDkwrMEWrE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4oSpgjVH_kI"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-25T16:53:29Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】深夜のバイノーラルマイク雑談💜 / Healing whispering【猫又おかゆ/ホロライブ】",
+                "description": "＿ 新しく届いたマイクを使用して耳かきをすると なにやらノイズキャンセルが入ってしまう(?) みたいなので今日はバイノーラルマイクで静かに お話をしようと思います！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4oSpgjVH_kI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4oSpgjVH_kI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4oSpgjVH_kI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4oSpgjVH_kI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-25T16:53:29Z"
+            }
         }
     ]
 }
