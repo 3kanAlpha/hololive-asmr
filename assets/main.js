@@ -12,15 +12,29 @@ const app = Vue.createApp({
 });
 const vm = app.mount('#list-parent');
 
+// データベースを更新した日時
+const updatedDate = "20210626-123456";  // アプデしたらここだけ書き換えればよい
+const jsonPath = 'assets/data-' + updatedDate + '.json';
+
+function showUpdatedDate() {
+    const box = document.querySelector('#date-updated');
+    const y = updatedDate.substring(0, 4);
+    const m = updatedDate.substring(4, 6);
+    const d = updatedDate.substring(6, 8);
+    const date = y + '-' + m + '-' + d;
+    box.innerHTML += date;
+}
+showUpdatedDate();
+
 let data;
 let videos;
 
 $(function() {
     $.when(
-        $.getJSON('assets/data-20210626-123456.json', function(e) {
+        $.getJSON(jsonPath, function(e) {
             data = e;
             videos = data['videos'];
-    
+        
             console.log("JSON loaded successfully. size=" + videos.length);
         })
     ).done(buildListByKeywords);
