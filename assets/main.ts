@@ -1,5 +1,50 @@
 
-const app = Vue.createApp({
+import Vue from 'vue';
+import { defineComponent } from 'vue';
+import $ from 'jquery';
+
+interface JSON {
+    channels: Channel[];
+    videos: Video[];
+}
+
+interface Channel {
+    name: string;
+    channelId: string;
+}
+
+interface Video {
+    kind: string;
+    etag: string;
+    id: VideoId;
+    snippet: VideoSnippet;
+}
+
+interface VideoId {
+    kind: string;
+    videoId: string;
+}
+
+interface VideoSnippet {
+    publishedAt: string;
+    channelId: string;
+    title: string;
+    thumbnails: ThumbnailsList;
+    channelTitle: string;
+}
+
+interface Thumbnail {
+    url: string;
+    width: number;
+    height: number;
+}
+
+interface ThumbnailsList {
+    medium: Thumbnail;
+    maxres: Thumbnail;
+}
+
+const app = defineComponent({
     data() {
       return {
         items: [],
@@ -13,10 +58,10 @@ const app = Vue.createApp({
 const vm = app.mount('#list-parent');
 
 // データベースを更新した日時
-const updatedDate = "20210626-123456";  // アプデしたらここだけ書き換えればよい
-const jsonPath = 'assets/data-' + updatedDate + '.json';
+const updatedDate: string = "20210626-123456";  // アプデしたらここだけ書き換えればよい
+const jsonPath: string = 'assets/data-' + updatedDate + '.json';
 
-function showUpdatedDate() {
+function showUpdatedDate(): void {
     const box = document.querySelector('#date-updated');
     const y = updatedDate.substring(0, 4);
     const m = updatedDate.substring(4, 6);
@@ -26,12 +71,12 @@ function showUpdatedDate() {
 }
 showUpdatedDate();
 
-let data;
-let videos;
+let data: JSON;
+let videos: Video[];
 
 $(function() {
     $.when(
-        $.getJSON(jsonPath, function(e) {
+        $.getJSON(jsonPath, function(e: JSON) {
             data = e;
             videos = data['videos'];
         
@@ -41,25 +86,25 @@ $(function() {
 });
 
 // [0, max)の整数値をとる一様乱数
-function getRandomInt(max) {
+function getRandomInt(max: number): number {
     return Math.floor(Math.random() * max);
 }
 
 // Appのdataの初期化
-function resetVM() {
+function resetVM(): void {
     while(vm.items.length > 0) vm.items.pop();
 }
 
 // Arrayをシャッフルする (Durstenfeld)
-function shuffleList(arr) {
+function shuffleList(arr: any[]): void {
     for (let i = arr.length; 1 < i; i--) {
-        k = getRandomInt(i);
+        const k = getRandomInt(i);
         [arr[k], arr[i - 1]] = [arr[i - 1], arr[k]];
     }
 }
 
 // channelIdから配信者名を逆引きする
-function getNameById(channelId) {
+function getNameById(channelId: string): string {
     const chs = data['channels'];
 
     for (let i = 0; i < chs.length; i++) {
@@ -71,7 +116,7 @@ function getNameById(channelId) {
 }
 
 // エスケープされた文字の修正
-function fixTitle(s) {
+function fixTitle(s: string): string {
     return s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 }
 
@@ -80,12 +125,12 @@ $(function() {
     reb.addEventListener('click', buildListByKeywords, false);
 })
 
-let currentList;
+let currentList: Video[];
 // const VIDEOS_PER_PAGE = 30;
 
-function buildListByKeywords() {
-    const FORM = document.forms.search;
-    const KEYWORDS = FORM.keywords.value;
+function buildListByKeywords(): void {
+    const FORM: HTMLFormElement = document.forms['search'];
+    const KEYWORDS = FORM.elements['keywords'];
 
     currentList = getFilteredList(KEYWORDS);
     shuffleList(currentList);
@@ -98,19 +143,19 @@ function buildListByKeywords() {
 
 const YOUTUBE_URL_BASE = "https://www.youtube.com/watch?v=";
 
-function buildYouTubeURL(s) {
+function buildYouTubeURL(s: string): string {
     return YOUTUBE_URL_BASE + s;
 }
 
 // 高画質なサムネイルが利用可能なら使う
-function getThumbnailURL(video) {
+function getThumbnailURL(video: Video): string {
     const th = video.snippet.thumbnails;
     if ("maxres" in th) return th.maxres.url;
     else return th.medium.url;
 }
 
 // 与えられたリストを表示させる
-function buildList(toBuild) {
+function buildList(toBuild: Video[]): void {
     resetVM();
 
     for (let i = 0; i < toBuild.length; i++) {
@@ -126,14 +171,14 @@ function buildList(toBuild) {
 }
 
 // OR検索する
-function getFilteredList(filters) {
+function getFilteredList(filters: string): Video[] {
     const hasKeywords = (filters.length > 0);
 
     if (!hasKeywords) return videos;
 
     const KEYWORD = filters.split(' ');
 
-    let ret = [];
+    let ret: Video[] = [];
 
     for (let i = 0; i < videos.length; i++) {
         const video = videos[i];
@@ -155,7 +200,7 @@ function getFilteredList(filters) {
 }
 
 // 現在表示されている動画からランダムに1つ選択
-function getRandomVideoURL() {
+function getRandomVideoURL(): void {
     const i = getRandomInt(currentList.length);
     window.open(buildYouTubeURL(currentList[i].id.videoId), '_blank');
 }
