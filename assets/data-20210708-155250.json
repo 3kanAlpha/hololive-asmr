@@ -7811,6 +7811,162 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-06-30T14:10:58Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dQR0gAxUCQ0y5iS1MLRrxo4FYyM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iV1jR_5aFz8"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-07T16:39:23Z",
+                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+                "title": "【ASMR】起きてる間は七夕だよね？KU100で夜更かし七夕デートでもいかがです？【ホロライブ/ロボ子さん】",
+                "description": "ASMR #ロボ子生放送 #ホロライブ --------------------------------------------------------------------------------------------- 6/28までの限定販売！誕生日記念グッズ販売中   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iV1jR_5aFz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iV1jR_5aFz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iV1jR_5aFz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iV1jR_5aFz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Roboco Ch. - ロボ子",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-07T16:39:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tZe4P1uVQynZoTs2Aqb1yXujGPk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QZa0fGzor10"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-24T12:49:46Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "ノエルの日🎄Noel DAY Mary(Merry) Xmas ASMR (？)",
+                "description": "安定安心の一発収録です！！！！MaryXmas   ※マリークリスマスじゃない！！！MerryXmas...！   ✥-------------------------------------------------------------------------✥ [  誕生 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QZa0fGzor10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QZa0fGzor10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QZa0fGzor10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QZa0fGzor10/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-24T12:49:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Ybf3IUSAUjzVloD5x9G8-ejT2E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ye4bbOBlomw"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-07T17:14:09Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】七夕に、甘々に癒します/音/囁き/色々【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ 特別な時間を・・・ る！七夕ボイス販売しました！！！⇩ 感想タグ #七夕るしあ https://hololive.booth.pm/items/2994608 メンバーシップ解禁しま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ye4bbOBlomw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ye4bbOBlomw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ye4bbOBlomw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ye4bbOBlomw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-07T17:14:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V7rQuoX_77PpCt1HRdy0FftMNYY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1pkhXQkYXBE"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-08T06:32:46Z",
+                "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+                "title": "【ASMR】Summer is Here! Let&#39;s Cool Down and CHAT. #hololiveEnglish",
+                "description": "Today's ASMR includes... Chill talking, plastic sounds, desk materials, and ear tapping/rubbing (maybe lotion at the end so those not about that life can leave ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1pkhXQkYXBE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1pkhXQkYXBE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1pkhXQkYXBE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1pkhXQkYXBE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mori Calliope Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-08T06:32:46Z"
+            }
         }
     ]
 }
