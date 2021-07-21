@@ -7967,6 +7967,123 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-07-08T06:32:46Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "t6EsqksNad6Dk41UFMpJwy0zJyU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IYgOiMVPDKI"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-20T15:22:21Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】KU100初体験！ノエるしオフコラボinノエスタ【潤羽るしあ/ホロライブ】",
+                "description": "るしあらいぶ #潤羽るしあ ▽潤羽るしあ 活動二周年記念グッズ▽ https://hololive.booth.pm/items/3100289 なななななななんと！！！！！！！！！！！あの！！！大 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IYgOiMVPDKI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IYgOiMVPDKI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IYgOiMVPDKI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IYgOiMVPDKI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-20T15:22:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mTxaDtjMu6USCcN9rKjujfJ0DH8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-zz-RtHpIaI"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-16T16:49:09Z",
+                "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+                "title": "【ASMR】🍑小声のねね🍑【桃鈴ねね/ホロライブ】",
+                "description": "癒されろ（圧） Lunch with me   https://nene.streamlink.to/Lunchwithme ねねねねねねねね！大爆走   https://nene.streamlink.to/DAIBAKUSOU ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-zz-RtHpIaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-zz-RtHpIaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-zz-RtHpIaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-zz-RtHpIaI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nene Ch.桃鈴ねね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-16T16:49:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "11gt0jxKqet94dXFzKS-YM9y5gE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8NUiwuHMU1k"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-17T14:11:16Z",
+                "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+                "title": "【CURSED ASMR】Do Not Watch This, Ears WILL Bleed. #hololiveEnglish",
+                "description": "Today's ASMR includes... ...some very Hateful things.... thumb: https://twitter.com/Uu3cm/status/1321374535686385666?s=20 ーーーーーーーーーーーーー ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8NUiwuHMU1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8NUiwuHMU1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8NUiwuHMU1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8NUiwuHMU1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mori Calliope Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-17T14:11:16Z"
+            }
         }
     ]
 }
