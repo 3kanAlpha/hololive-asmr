@@ -8084,6 +8084,45 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-07-17T14:11:16Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-ndyDtYSM5p0_G1ei_TYAbsUWDo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u66Mxi5sI58"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-22T15:38:37Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR】ゼロ距離で囁き💓お姉ちゃんと一緒におやすみしよ💤【白銀ノエル/ホロライブ】",
+                "description": "ノエルASMR で呟いてね✨ 素敵なサムネイラスト：Niii(@Niiisan617)さま   https://twitter.com/Niiisan617/status/1391295119903629314 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u66Mxi5sI58/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u66Mxi5sI58/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u66Mxi5sI58/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u66Mxi5sI58/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-22T15:38:37Z"
+            }
         }
     ]
 }
