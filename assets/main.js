@@ -13,7 +13,7 @@ const app = Vue.createApp({
 const vm = app.mount('#list-parent');
 
 // データベースを更新した日時
-const updatedDate = "20210723-004816";  // アプデしたらここだけ書き換えればよい
+const updatedDate = "20210727-202137";  // アプデしたらここだけ書き換えればよい
 const jsonPath = 'assets/data-' + updatedDate + '.json';
 
 function showUpdatedDate() {
@@ -82,14 +82,17 @@ $(function() {
 
 let currentList;
 // const VIDEOS_PER_PAGE = 30;
+let sortByDate = false;
 
 function buildListByKeywords() {
     const FORM = document.forms.search;
     const KEYWORDS = FORM.keywords.value;
 
     currentList = getFilteredList(KEYWORDS);
-    shuffleList(currentList);
     console.log(currentList.length + " videos loaded.");
+
+    if (sortByDate) sortListByDate(currentList);
+    else shuffleList(currentList);
 
     buildList(currentList);
 
@@ -125,13 +128,39 @@ function buildList(toBuild) {
     }
 }
 
-// OR検索する
-function getFilteredList(filters) {
+function checkSettings(commands) {
+    let checkSort = false;
+    for (let i = 0; i < commands.length; i++) {
+        if (commands[i] == "!sort=date") checkSort = true;
+    }
+    sortByDate = checkSort;
+}
+
+function getKeywords(filters) {
     const hasKeywords = (filters.length > 0);
 
-    if (!hasKeywords) return videos;
+    if (!hasKeywords) return [];
 
-    const KEYWORD = filters.split(' ');
+    const FILTERS = filters.split(' ');
+
+    let keywords = [];
+    let commands = [];
+
+    for (let i = 0; i < FILTERS.length; i++) {
+        if (FILTERS[i].startsWith('!')) commands.push(FILTERS[i]);
+        else keywords.push(FILTERS[i]);
+    }
+
+    checkSettings(commands);
+
+    return keywords;
+}
+
+// OR検索する
+function getFilteredList(filters) {
+    const KEYWORD = getKeywords(filters);
+
+    if (KEYWORD.length == 0) return videos;
 
     let ret = [];
 
@@ -158,4 +187,18 @@ function getFilteredList(filters) {
 function getRandomVideoURL() {
     const i = getRandomInt(currentList.length);
     window.open(buildYouTubeURL(currentList[i].id.videoId), '_blank');
+}
+
+function compareDate(x, y) {
+    const dateX = x.snippet.publishedAt;
+    const dateY = y.snippet.publishedAt;
+
+    if (dateX < dateY) return 1;
+    else if (dateX > dateY) return -1;
+
+    return 0;
+}
+
+function sortListByDate(list) {
+    list.sort(compareDate);
 }
