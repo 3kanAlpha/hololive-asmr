@@ -8162,6 +8162,45 @@
                 "liveBroadcastContent": "upcoming",
                 "publishTime": "2021-07-27T09:56:59Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vsaW6imbsfY5vPAnehJdgc3NkK8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p4mWvZ9Pjzg"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-31T14:20:27Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】月末定期ASMR放送：21.7月【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです(^・ω・^§)ﾉ 今月も皆さんお疲れ様でした！！ ASMRでのんびりしていきますよ！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p4mWvZ9Pjzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p4mWvZ9Pjzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p4mWvZ9Pjzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p4mWvZ9Pjzg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-31T14:20:27Z"
+            }
         }
     ]
 }
