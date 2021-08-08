@@ -8201,6 +8201,45 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-07-31T14:20:27Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bPtsbSEfgWcgyYISpxXdpwzzDRU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K_i9eLrPcso"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-03T15:02:08Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】久しぶりに耳かきしよっか💜 / Ear cleaning【ホロライブ/猫又おかゆ】",
+                "description": "＿ 僕もついに防音室を入れたので、ファンの音が 全然聞こえなくなったよ！わ～～～い！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K_i9eLrPcso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K_i9eLrPcso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K_i9eLrPcso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K_i9eLrPcso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-03T15:02:08Z"
+            }
         }
     ]
 }
