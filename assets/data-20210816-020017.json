@@ -8240,6 +8240,84 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-08-03T15:02:08Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "14AYGE9z-ZZ6Pu4A-_3kK50fihk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rz-0Yrhdo3E"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-13T16:04:41Z",
+                "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg",
+                "title": "ASMR",
+                "description": "Membership to support HAACHAMA!!!✨ ➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rz-0Yrhdo3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rz-0Yrhdo3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rz-0Yrhdo3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Rz-0Yrhdo3E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HAACHAMA Ch 赤井はあと",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-13T16:04:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "szV79Yi2f6aKdD8VEqBe0EPkDtc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xd5p2MH1tiQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T06:07:37Z",
+                "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+                "title": "【ASMR】Whispering and Chatting in my Indoor Voice! #hololiveEnglish",
+                "description": "Today's ASMR includes... Chill talking, whispering, ear touching and massaging. Ear cream comes out at the end! I will give a warning. :} incredible art by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xd5p2MH1tiQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xd5p2MH1tiQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xd5p2MH1tiQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xd5p2MH1tiQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mori Calliope Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-09T06:07:37Z"
+            }
         }
     ]
 }
