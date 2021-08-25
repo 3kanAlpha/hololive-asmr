@@ -8318,6 +8318,279 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-08-09T06:07:37Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ai6h7GJOLjcwT5lMfMWyMGfOxR4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z6bgYMDVH3c"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-25T11:27:33Z",
+                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+                "title": "【ARCHIVE×】久々のASMRの予定【ホロライブ/ロボ子さん】",
+                "description": "ASMR #ロボ子生放送 #ホロライブ ARCHIVEはメンバー限定になります！ ☆登録/Registration→ https://t.co/hcjxHtMqOy?amp=1 ☆限定アーカイブリスト/Limited ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Roboco Ch. - ロボ子",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-08-25T11:27:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "42prgACiCOMZpjuQmt_FjT3Qsa8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sa9skWBlaqg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-24T15:07:11Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "【ASMR】ヤンデレホラー(?)♡重すぎる愛でドキドキゾクゾク【ホロライブ/夜空メル】",
+                "description": "８月２９日２３時メンバー限定ASMRやります！ （お肉はむはむプラン限定  ） Members-only ASMR on August 29th at 23:00. Meat Hamu Hamu Plan Only. 素敵な素材： ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sa9skWBlaqg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sa9skWBlaqg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sa9skWBlaqg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Sa9skWBlaqg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-24T15:07:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vAnFkNKzAvhrxJov6jJvchhM2hs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IzfGQeLmB58"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-25T11:57:43Z",
+                "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg",
+                "title": "ばぶみASMR ※No archive",
+                "description": "Membership to support HAACHAMA!!!✨ ➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IzfGQeLmB58/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IzfGQeLmB58/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IzfGQeLmB58/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IzfGQeLmB58/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HAACHAMA Ch 赤井はあと",
+                "liveBroadcastContent": "live",
+                "publishTime": "2021-08-25T11:57:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fhRQ8oJQ1SulNvnVddyLBCKLh24",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mhB4915XKJo"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-18T16:50:06Z",
+                "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg",
+                "title": "#ぶるちゃまASMR【※刺激つよい】",
+                "description": "はあちゃま、ぶるちに感化され〝ぶるちゃま〟になる。 あの流行りのぶるぶるマシーン× A S M R 夢のコラボ！✨ 放送事故になってしまうのか！？ 運営さんお願い許してとめ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mhB4915XKJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mhB4915XKJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mhB4915XKJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mhB4915XKJo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HAACHAMA Ch 赤井はあと",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-18T16:50:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sodvatUBb4ZO8nMFt2eAbE1CkoY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5h3qRSDWwS4"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-24T21:10:43Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【感謝】先程のASMR配信のスパチャお礼雑談🌸【白銀ノエル/ホロライブ】",
+                "description": "ノエルーム で呟いてね✨ 素敵なサムネイラスト：はな森(@hanamori59ya)せんせ   https://twitter.com/hanamori59ya/status/1424250853070835712 ※先程のASMR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5h3qRSDWwS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5h3qRSDWwS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5h3qRSDWwS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5h3qRSDWwS4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-24T21:10:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pvVMACjCNoStGcuqdU0BSbGaFiI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OqtaDaaT8xM"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-24T15:50:19Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR】眠れない暑い日には耳元から涼しさを🍨Cool Down On A Hot Summers Day!【白銀ノエル/ホロライブ】",
+                "description": "ノエルASMR で呟いてね✨ ※It's not member only. All can watch. 素敵なサムネイラスト：はな森(@hanamori59ya)せんせ   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OqtaDaaT8xM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OqtaDaaT8xM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OqtaDaaT8xM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OqtaDaaT8xM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-24T15:50:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uFtyOxcF1a5Q5TRPodrsqln8dHI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kmpZGbncrsE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-19T15:11:48Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【黒3Dio】オイルマッサージ＆耳かきASMR（Oil Massage/Ear Blowing）【雪花ラミィ/ホロライブ】",
+                "description": "ノエル先輩から頂いた筆も使ってみる！ ※外お仕事から帰ってくるのが遅くなって 配信時間に間に合わなかったら枠を閉じる可能性があります   ✨活動1周年の記念グッズ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kmpZGbncrsE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kmpZGbncrsE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kmpZGbncrsE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kmpZGbncrsE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-19T15:11:48Z"
+            }
         }
     ]
 }
