@@ -8591,6 +8591,201 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-08-19T15:11:48Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G9wYGC6pIPAXGb1jnMGSGC7zvFM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QKRLTdeTp1Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-31T13:11:18Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】月末定期ASMR放送：21.8月【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです(^・ω・^§)ﾉ 今月も皆さんお疲れ様でした！！ 今回はもぐもぐしていきますー！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QKRLTdeTp1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QKRLTdeTp1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QKRLTdeTp1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QKRLTdeTp1Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-31T13:11:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_wK7SlBew2qDGzhI0Eqx4Rkx3oc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wH98LIjrzC8"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-29T08:29:00Z",
+                "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
+                "title": "夏の風物詩 そうめんちゅるちゅる ASMR",
+                "description": "今年もやってまいりました。 そうめんをちゅるちゅると食べるASMRです。 （がんばります） ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 誕生日記念グッズ   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wH98LIjrzC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wH98LIjrzC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wH98LIjrzC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wH98LIjrzC8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mio Channel 大神ミオ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-29T08:29:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uMyf23oa1JEuKJ7ISogAGFaL1BA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zasog1BzniA"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-30T15:53:40Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【子守唄ASMR】眠たい君へ送るよ○ /softly song Japanese【ホロライブ/猫又おかゆ】",
+                "description": "＿ 静かに歌うよ…   ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ はじめてのオリジナル曲！“もぐもぐYUMMY”は こちらでも ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zasog1BzniA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zasog1BzniA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zasog1BzniA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zasog1BzniA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-30T15:53:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BWjwLejbmTRJv1hmHxkwbgkVPFY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qF1E8dmhoJE"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-29T16:35:07Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【バイノーラル】スーパーチャットお礼雑談【雪花ラミィ/ホロライブ】",
+                "description": "耳元でありがとう、をする配信 ※ASMRじゃないよ！ お礼する枠 https://www.youtube.com/watch?v=jwnO8PfNsxY&t=2393s ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qF1E8dmhoJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qF1E8dmhoJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qF1E8dmhoJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qF1E8dmhoJE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-29T16:35:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xz2t0zXevZUGv70mzA6vi0tE15Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DfbzUvIXvTc"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-29T15:08:05Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】囁き声🌼音で遊ぼう🌼Whispering🌼etc...【尾丸ポルカ/ホロライブ】",
+                "description": "全体公開アーカイブのこしたい 当社比ぶりっこでいきましょう スライムとか触って遊べそうなのもてきた ジェルボールチャレンジしよう 24時頃にはめんげんにいどうしま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DfbzUvIXvTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DfbzUvIXvTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DfbzUvIXvTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DfbzUvIXvTc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-29T15:08:05Z"
+            }
         }
     ]
 }
