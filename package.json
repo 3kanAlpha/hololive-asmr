@@ -1,0 +1,30 @@
+{
+  "name": "hololive-asmr",
+  "version": "1.0.0",
+  "description": "**ホロライブのASMR配信が無性に見たい**……！というときに使うサービスです。  \r ASMR配信と、それに類する配信のみを掲載しています。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3kanAlpha/hololive-asmr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3kanAlpha/hololive-asmr/issues"
+  },
+  "homepage": "https://github.com/3kanAlpha/hololive-asmr#readme",
+  "dependencies": {
+    "mongodb": "^4.1.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "webpack": "^5.56.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^4.3.0"
+  }
+}
