@@ -12,7 +12,7 @@ body {
 }
 
 #about .lead {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'Noto Sans JP', sans-serif;
 }
 
 .card h5 {

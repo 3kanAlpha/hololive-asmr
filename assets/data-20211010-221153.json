@@ -8903,6 +8903,123 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-09-09T07:12:15Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cJZ9nelJdgQ8J62hdukNVM538ow",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eHJYlxmNAxk"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-30T14:06:42Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】月末定期ASMR放送 2021.9【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです(^・ω・^§)ﾉ 月末定期ASMRですよぉー✨✨ 今夜もごろごろしながらささやき多めでいくぞぃ！ みんなでお疲れ様だ～い ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eHJYlxmNAxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eHJYlxmNAxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eHJYlxmNAxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eHJYlxmNAxk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-30T14:06:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5vMN_I694LgpNdq4JYqmZTcLTGg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aUVQ48H2-EE"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-14T15:54:59Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】梵天のふわふわマッサージだよ✨【猫又おかゆ/ホロライブ】",
+                "description": "＿ ふわふわ～～～～～～！ ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ はじめてのオリジナル曲！“もぐもぐYUMMY”は ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aUVQ48H2-EE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aUVQ48H2-EE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aUVQ48H2-EE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aUVQ48H2-EE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-14T15:54:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q9u3pF0DdQA_82RaVpCoNv5I6Wg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PZm_QOmULc4"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-24T16:04:42Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR／KU100】300万円の新機材を導入したので貴方のお耳で実験させてね💓【白銀ノエル/ホロライブ】",
+                "description": "まだ設定が定まってないので色々な音でお耳をいじらせてね✨ ※メン限じゃありませんが内容によってはアーカイブメン限になります。 総額1500万円の配信環境(通称： ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZm_QOmULc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZm_QOmULc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZm_QOmULc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PZm_QOmULc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-24T16:04:42Z"
+            }
         }
     ]
 }
