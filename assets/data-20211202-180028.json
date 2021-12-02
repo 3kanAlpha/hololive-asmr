@@ -9059,6 +9059,318 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-10-12T16:06:38Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cwv33Y3UkefWaD2BIbIZ2y7Q2jA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9bkKurtHyjs"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-30T12:09:17Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "【気持ちの良いASMR】マリンとお泊り【ホロライブ/夜空メル×宝鐘マリン】",
+                "description": "【コラボ者】 @Marine Ch. 宝鐘マリン 夜空メル誕生日グッズ発売中   抱き枕♡ぬいぐるみ♡ラバーマットなど！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9bkKurtHyjs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9bkKurtHyjs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9bkKurtHyjs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9bkKurtHyjs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-30T12:09:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q9VxOqDUhiKoA5MRnjo8YfVnBNk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rSeCCzGiiR8"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-20T13:11:34Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "【ASMR】オフコラボ♡僕っ子二人がたっぷりお耳を癒します【ホロライブ/夜空メル＆猫又おかゆ】",
+                "description": "【コラボタグ】 #メルおかASMR 【コラボ者】 @Okayu Ch. 猫又おかゆ illustrat：あやせりん様 https://twitter.com/eli_rin24 夜空メル誕生日グッズ発売中   抱き枕♡ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rSeCCzGiiR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rSeCCzGiiR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rSeCCzGiiR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rSeCCzGiiR8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-20T13:11:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W__N-8w5ZR60KH-fLjDwaht0qDw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ugm8DU-aYUo"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-30T14:20:33Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】月末定期ASMR/HALLOWEEN🎃お菓子を食べながらイタズラするぞぃ！【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです！ 今月は予定がつめつめなのでっ！ ３０日に月末ASMRじゃい！！！ ガジガジガウガウするぞぉーーー！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ugm8DU-aYUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ugm8DU-aYUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ugm8DU-aYUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ugm8DU-aYUo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-30T14:20:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KqV0fcHIATtDyn8Gr2v7ikj2bso",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CFJTXtW9tPc"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-17T15:32:15Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】耳かきしてさ、一緒に寝ようか / Ear cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ いつもおつかれさま。僕が癒してあげるね…♡ ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ はじめてのオリジナル曲！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CFJTXtW9tPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CFJTXtW9tPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CFJTXtW9tPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CFJTXtW9tPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-17T15:32:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o-nUnKx47ymh_yB0jtR4WdyOWcI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SHJgH64VN9g"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-02T08:20:20Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【メンバー限定】同棲生活・・？ASMRざつだん♡【潤羽るしあ/ホロライブ】",
+                "description": "生放送タグ #るしあらいぶ #潤羽るしあ新衣装 #潤羽るしあ #ポケモン #ブリリアントダイヤモンド だいすき♡ ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ ーーーー この放送は ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-12-02T08:20:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dBBHBFTVe_Qoh9YC6CF-RxnOjk8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sEealCmdkL0"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-28T16:12:34Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【黒3Dio】睡眠導入♡オイルマッサージ＆耳かきASMR（Oil Massage/Ear Blowing）【雪花ラミィ/ホロライブ】",
+                "description": "久しぶりのASMR♡ 防音室に穴開けた効果、あるかな…！？ ❄雪花ラミィ誕生日記念グッズ2021❄ 全部セットは、直筆サイン入り箔押しメッセージ付きポストカードです✨ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sEealCmdkL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sEealCmdkL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sEealCmdkL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sEealCmdkL0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-28T16:12:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9jpa3_5Ze3p_jojUekYjKp6-iA0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hreU1CDQX0A"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-24T16:37:30Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【壁ASMR】低気圧に負けた者の生活音🌲Life sounds🎶【尾丸ポルカ/ホロライブ】",
+                "description": "あまりはなしかけません 黒3Dio試運転もかねて ＝＝＝＝＝一周年いろいろ情報＝＝＝＝＝＝＝＝ オリジナル「エヴァーブルー」配信決定   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hreU1CDQX0A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hreU1CDQX0A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hreU1CDQX0A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hreU1CDQX0A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-24T16:37:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GorVxVGiIMhsjF4ZMwqcN2AEQDg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LwzNCrrVcu0"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T14:50:16Z",
+                "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+                "title": "【ASMR】SPA DAY! Water Sounds, Ear Massages, Finding Peace Together!",
+                "description": "NEW SONG: https://youtu.be/TIgcVT4SfGw art: https://twitter.com/yuyaiyaui ーーーーーーーーーーーーー よろしくお願いします！みんな、一緒に楽しめると嬉しいですね。",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LwzNCrrVcu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LwzNCrrVcu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LwzNCrrVcu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LwzNCrrVcu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mori Calliope Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T14:50:16Z"
+            }
         }
     ]
 }
