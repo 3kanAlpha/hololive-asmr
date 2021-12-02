@@ -8126,45 +8126,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "0bFvpgs6UK6ivrQcbkBtaQqCbeQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "TfY9Vpm0qjE"
-            },
-            "snippet": {
-                "publishedAt": "2021-07-27T09:56:59Z",
-                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
-                "title": "【 メン限＊ASMR 】姫からルーナイト達へご褒美なのら💗【#姫森ルーナ/ホロライブ】",
-                "description": "チャンネルコミュニティに募集したセリフを読んでいくのら  (・o・  ) Member only stream. ▷メンバー登録 ➡ http://bit.ly/3aeS5Yf ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TfY9Vpm0qjE/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TfY9Vpm0qjE/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TfY9Vpm0qjE/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/TfY9Vpm0qjE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Luna Ch. 姫森ルーナ",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2021-07-27T09:56:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "vsaW6imbsfY5vPAnehJdgc3NkK8",
             "id": {
                 "kind": "youtube#video",
@@ -8317,45 +8278,6 @@
                 "channelTitle": "Mori Calliope Ch. hololive-EN",
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-08-09T06:07:37Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Ai6h7GJOLjcwT5lMfMWyMGfOxR4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "z6bgYMDVH3c"
-            },
-            "snippet": {
-                "publishedAt": "2021-08-25T11:27:33Z",
-                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
-                "title": "【ARCHIVE×】久々のASMRの予定【ホロライブ/ロボ子さん】",
-                "description": "ASMR #ロボ子生放送 #ホロライブ ARCHIVEはメンバー限定になります！ ☆登録/Registration→ https://t.co/hcjxHtMqOy?amp=1 ☆限定アーカイブリスト/Limited ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/z6bgYMDVH3c/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Roboco Ch. - ロボ子",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2021-08-25T11:27:33Z"
             }
         },
         {
@@ -9214,45 +9136,6 @@
                 "channelTitle": "Okayu Ch. 猫又おかゆ",
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-11-17T15:32:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "o-nUnKx47ymh_yB0jtR4WdyOWcI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "SHJgH64VN9g"
-            },
-            "snippet": {
-                "publishedAt": "2021-12-02T08:20:20Z",
-                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
-                "title": "【メンバー限定】同棲生活・・？ASMRざつだん♡【潤羽るしあ/ホロライブ】",
-                "description": "生放送タグ #るしあらいぶ #潤羽るしあ新衣装 #潤羽るしあ #ポケモン #ブリリアントダイヤモンド だいすき♡ ୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ ーーーー この放送は ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/SHJgH64VN9g/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Rushia Ch. 潤羽るしあ",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2021-12-02T08:20:20Z"
             }
         },
         {
