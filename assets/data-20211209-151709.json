@@ -9922,6 +9922,357 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-11-02T02:17:33Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6YeplG9pCeisWOvtwocDg28hHiI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HRchPCP_wtM"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-03T06:26:41Z",
+                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+                "title": "【ASMR】Kalimbaで即興歌【ホロライブ/ロボ子さん】",
+                "description": "なんとなく弾いてみたら弾けそうだったのでがんばった！ カリンバはろぼさーにもらったものなの～   めちゃ音綺麗！ ASMR配信で出来た即興歌です おめめとじて～ ーーー ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HRchPCP_wtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HRchPCP_wtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HRchPCP_wtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HRchPCP_wtM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Roboco Ch. - ロボ子",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-03T06:26:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wu_F-eqYUlNCY5qRz_VOPDjczPQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cKZlCl5IL2M"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-27T14:37:50Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "メルとぺこらの雑談♡ASMR講座【ホロライブ/夜空メル×兎田ぺこら】",
+                "description": "夜空メルhttps://twitter.com/yozoramel 兎田ぺこら：https://twitter.com/usadapekora ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cKZlCl5IL2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cKZlCl5IL2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cKZlCl5IL2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cKZlCl5IL2M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-27T14:37:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ug57rHG8jx_Eh3B5e_oa1OAlpds",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iEVvBxFreR0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T14:28:27Z",
+                "channelId": "UCFTLzh12_nrtzqBPsTCqenA",
+                "title": "【バイノーラル】社畜向け～お耳とろける甘い夜～【アキロゼ/VTuber】whisper / 立体音響",
+                "description": "いつも頑張ってるあなたへ ASMR作品なのでヘッドホンやイヤホン推奨です♪ アキ・ローゼンタール【ホロライブ所属/Vtuber】 異世界からやってきた癒し系バーチャルハーフ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iEVvBxFreR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iEVvBxFreR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iEVvBxFreR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iEVvBxFreR0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "アキロゼCh。Vtuber/ホロライブ所属",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-23T14:28:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oy8KHmxVE4Qt1fsZurxefGaH2d0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IpjcloaTUJU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-08T21:49:26Z",
+                "channelId": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+                "title": "【ASMR】高音質、甘々睡眠誘導/愛情たっぷり囁き/××/マッサージ/KU100【潤羽るしあ/ホロライブ】",
+                "description": "生放送タグ #るしあらいぶ #潤羽るしあ新衣装 #潤羽るしあ 最強の高音質でキミたちを思いっきり幸せにします。いつもお疲れさま、大好きだよ Heal your ears Love ASMR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IpjcloaTUJU/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IpjcloaTUJU/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IpjcloaTUJU/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IpjcloaTUJU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rushia Ch. 潤羽るしあ",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-12-08T21:49:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Fd2_HtJGwucixgKJzFNIlqOuLjA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GQsh5HGMqx8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-07T18:10:01Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【黒3Dio】睡眠導入♡オイルマッサージASMR（Oil Massage）【雪花ラミィ/ホロライブ】",
+                "description": "ほぼボイスなし、ゆっくり寝てね ❄雪花ラミィ誕生日記念グッズ2021❄ 全部セットは、直筆サイン入り箔押しメッセージ付きポストカードです✨ 数量限定ではないのでゆっくり ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQsh5HGMqx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQsh5HGMqx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQsh5HGMqx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GQsh5HGMqx8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-07T18:10:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VvTYOhU4EZN3YskTfhTXE8iDoIQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TYe4XcaU9bM"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-08T12:51:59Z",
+                "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+                "title": "【ASMR】🍑本気で練習させてみろ🍑 【桃鈴ねね/ホロライブ/ #ねねいろらいぶ 】",
+                "description": "視聴者ラジコン企画！ ねねに本気のASMRってやつを教えて下さあああああああああああああああああああああい！！！！ コメント欄で参加してね！ MEMBERSHI   ね ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TYe4XcaU9bM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TYe4XcaU9bM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TYe4XcaU9bM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TYe4XcaU9bM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nene Ch.桃鈴ねね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-08T12:51:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NbuspOdHpy15kdWewxf0J5oPaRU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iNaikBJ69Wo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-08T07:17:06Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 Warm &amp; Cozy Ear Cleaning &amp; Oil Massage 💗 #holoCouncil",
+                "description": "Konfauna~ Time to get cozy with some ASMR! ✿ Artist Credits ✿ Thumbnail artist: https://www.pixiv.net/en/artworks/92911836 Thank you so much!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iNaikBJ69Wo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iNaikBJ69Wo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iNaikBJ69Wo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iNaikBJ69Wo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-08T07:17:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PaRrP4F0u1gPwUMOfZNLk9CcF3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8-rKCWmlfJw"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-06T23:14:45Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【Fauna&#39;s ASMR】 Relaxing with Cooling Summertime ASMR 🧊 #holoCouncil",
+                "description": "Konfauna! Let's celebrate summer before it's over with some cooling summer themed ASMR! ✿ Artist Credits ✿ Thumbnail artist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8-rKCWmlfJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8-rKCWmlfJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8-rKCWmlfJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8-rKCWmlfJw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-06T23:14:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x1pBlxwD_aKyebhY4Sp7Up94C4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "le9AAt8B5Gc"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-27T23:23:30Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 Fauna&#39;s first ASMR stream! 🌿 comfy whispers and assorted ASMR triggers  #holoCouncil",
+                "description": "Konfauna! It's time for my very first ASMR stream! Grab your headphones and get comfy! Thumbnail artist: https://twitter.com/mica0ha thank you!! ✿ Hashtags ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/le9AAt8B5Gc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/le9AAt8B5Gc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/le9AAt8B5Gc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/le9AAt8B5Gc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-27T23:23:30Z"
+            }
         }
     ]
 }
