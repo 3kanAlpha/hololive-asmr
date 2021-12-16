@@ -10273,6 +10273,240 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-08-27T23:23:30Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lJK7N3VP59eOzpGa7gDYzf6XkDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8BMI_bUWwBg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-13T16:14:49Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】睡眠導入♡耳かき・オイルマッサージ・炭酸泡/Ear Cleaning・Brahma・oil・carbonated bubbles・whispers【雪花ラミィ/ホロライブ】",
+                "description": "今日はちょっぴり長め予定（2時間くらい） 寝落ち用にどうぞ…✨ ❄雪花ラミィ誕生日記念グッズ2021❄ 全部セットは、直筆サイン入り箔押し ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8BMI_bUWwBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8BMI_bUWwBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8BMI_bUWwBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8BMI_bUWwBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-13T16:14:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OUznORFBj40tRFPjG6xPL-pWGQU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0b83rBcZt_c"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-13T16:00:37Z",
+                "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+                "title": "【ASMR】🍑高音質 / 睡眠導入 / 囁き声 / 子守唄 🍑 【桃鈴ねね /ホロライブ】",
+                "description": "囁き声でみんなが寝るまで歌ってあげる！ MEMBERSHI   ねねプロダクションに参加しませんか？✨ ねねがもっと好きになるよ♡ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0b83rBcZt_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0b83rBcZt_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0b83rBcZt_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0b83rBcZt_c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nene Ch.桃鈴ねね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-13T16:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YdrVyqiQj8UTLOKa4IdrLjAQgmQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "svEQsLaq0v8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-14T14:33:56Z",
+                "channelId": "UCENwRMx5Yh42zWpzURebzTw",
+                "title": "【ASMR】はかせ、お前のこと今日はママって思っていいんだよな？#ラプこよASMR【ラプラス・ダークネス/博衣こより/ホロライブ】",
+                "description": "サムネイラスト₊スコッティ https://twitter.com/Sco_ttie はかせ https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/svEQsLaq0v8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/svEQsLaq0v8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/svEQsLaq0v8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/svEQsLaq0v8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laplus ch. ラプラス・ダークネス - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-14T14:33:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "70Zrv3rq1iylR3MxCbxkLJWTMKk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NC-4W3S-WXo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-14T14:32:34Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【ASMRコラボ】ASMR好きのラプラスに耳かきして腕を磨く！ #ラプこよASMR 【博衣こより/ラプラス・ダークネス/ホロライブ】",
+                "description": "各枠で枠主の声のみが聴こえます※こよりが @Laplus ch. ラプラス・ダークネス - holoX - にASMRをします※それをみんなが見守るという ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NC-4W3S-WXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NC-4W3S-WXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NC-4W3S-WXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NC-4W3S-WXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-14T14:32:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9cd-PxJypkeqO6tnV9TPJ_b6M_4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jr5vJJJEUqY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-11T18:52:28Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【ASMR】本気で寝させる甘々耳かき・囁き・マッサージetc～ギャグにしないリベンジマッチ！～【博衣こより/ホロライブ】",
+                "description": "はじめてのASMRは、「ゲーミング耳かき」「マヨネーズASMR」がトレンド入りするというギャグ回になってしまったので、本気で寝させるギャグ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jr5vJJJEUqY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jr5vJJJEUqY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jr5vJJJEUqY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jr5vJJJEUqY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-11T18:52:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-CRoLad5F5XWN11rtTQhPcoHMDo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wM_J4K2ZeBU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-12T02:00:11Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 Ear Cleaning &amp; Oil Massage Treatment For Saplings 🌱",
+                "description": "Fauna gives your sapling leaves a special cleaning & oil massage! 【 Timestamps 】 ✿ 0:00 - Konfauna~ Sapling inspection! ✿ 4:47 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wM_J4K2ZeBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wM_J4K2ZeBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wM_J4K2ZeBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wM_J4K2ZeBU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-12T02:00:11Z"
+            }
         }
     ]
 }
