@@ -10507,6 +10507,396 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-12-12T02:00:11Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6BGbLRWXMlIF8NWh4Y3FvlCcOys",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0I_lQ_Ax-NI"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-16T15:33:32Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "【ASMR/KU100】お姉さんの甘やかし時間♡【ホロライブ/夜空メル】Whispering/EarCleaning/Massage",
+                "description": "サムネはみこちが作ってくれました！ イラスト：胡麻乃りお様 https://twitter.com/gomalio_y 夜空メル誕生日グッズ発売中   抱き枕♡ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0I_lQ_Ax-NI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0I_lQ_Ax-NI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0I_lQ_Ax-NI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0I_lQ_Ax-NI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-16T15:33:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1lBOeDNG8eYx-dOGfOg28GPEgFQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DN24TqRPcMg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T16:38:55Z",
+                "channelId": "UCXTpFs_3PqI41qX2d9tL2Rw",
+                "title": "【ASMR】最低品質・・・最悪の眠りをあなたへ♡【ホロライブ/紫咲シオン】",
+                "description": "まじでクッソ音が小さいです。最大でも小さいかもしれません・・・； アーカイブは残らないかもしれないです。 クリスマスボイスが出ました   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DN24TqRPcMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DN24TqRPcMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DN24TqRPcMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DN24TqRPcMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Shion Ch. 紫咲シオン",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T16:38:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MNIJ0YtFch4ekCpfHMHlAYLr7S8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qx7FszTudo4"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T23:55:32Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR/KU100】恋人気分でMerry Christmas！聖なる夜にお耳から癒しをお届け🎁【白銀ノエル/ホロライブ】",
+                "description": "全ASMR広告(冒頭＆途中含め)一切なしです   今にピッタリ！クリスマスボイス発売開始！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2021-12-24T23:55:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cSffPHimAMaVhfF17NSzbzMf4Zo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6nSr-tW12R8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-20T14:16:12Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【#ノエマリ温泉ASMR】寒い日は温泉気分でお風呂につかろ🎶【白銀ノエル/宝鐘マリン】",
+                "description": "以前、お風呂配信はしたけど・・・ASMRで戻ってき太郎？！ 噂の配信→https://www.youtube.com/watch?v=pFDQjXs6ieM ♨配信上で ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6nSr-tW12R8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6nSr-tW12R8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6nSr-tW12R8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6nSr-tW12R8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-20T14:16:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2KLSE2PYaerex1wKrx9Fv-scGiQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d4K8csi1AwM"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T15:16:59Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR｜高音質】甘々彼女の囁き・心音・オイル＆クリーム・ブラシ/Oils and creams, brushes, whispers, heartbeats【雪花ラミィ/ホロライブ】",
+                "description": "イブ＆クリスマスを一緒に過ごしてくれる君に 甘々彼女のASMRをプレゼント     #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d4K8csi1AwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d4K8csi1AwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d4K8csi1AwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d4K8csi1AwM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T15:16:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JG0xW181J7Uxdyca1nbEGTojiWg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mYvoUMwHN6Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-22T01:52:32Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】朝の睡眠導入♡耳かき・オイルマッサージ・炭酸泡/Ear Cleaning・Brahma・oil・carbonated bubbles・whispers【雪花ラミィ/ホロライブ】",
+                "description": "寝てもいいよ… #らみらいぶ #雪花ラミィ で呟いて頂けたら嬉しいです！ サムネイル カンザリンさま https://twitter.com/kanzarinsan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mYvoUMwHN6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mYvoUMwHN6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mYvoUMwHN6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mYvoUMwHN6Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-22T01:52:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wXF8VUTr7wuI1yhUkxS-e73wlQo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d0ra5Gdz7qQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-17T16:01:53Z",
+                "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+                "title": "【ASMR】シチュエーションで色々なポルカ/黒3Dio/全体公開【尾丸ポルカ/ホロライブ】",
+                "description": "メンゲンコミュで募集したシチュエーションを想像しながら アドリブでおみみにお邪魔しますよ～ サムネ：https://twitter.com/NyuTanArt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0ra5Gdz7qQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0ra5Gdz7qQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0ra5Gdz7qQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d0ra5Gdz7qQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Polka Ch. 尾丸ポルカ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-17T16:01:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C7p8VKmVhBPeomfpx82PzfVjPFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uiUC_lW1z30"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T17:07:20Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【立体音響晩酌】聖夜を一緒にすごそっ♡～TALK ONLY ASMR～【博衣こより/ホロライブ】",
+                "description": "クリスマスイブからクリスマスになる瞬間が「聖夜」♡聖夜は助手くんと一緒に過ごしたいっ！ ってことで、少しでも傍で過ごせるよう ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uiUC_lW1z30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uiUC_lW1z30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uiUC_lW1z30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uiUC_lW1z30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T17:07:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oD88o5ChBa2K5howuIiYOuTKrqQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YWPWSTD2gwY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-19T16:35:24Z",
+                "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+                "title": "【ASMR】今度こそ両耳です🎵そして登録者40万人ありがとうございますでござる！※初心者なので囁きから練習しますでござる【風真いろは/ホロライブ6期生】",
+                "description": "ホロライブ6期生holoxの用心棒！ 侍の風真いろはでござる～～  ✨ 今度こそ両耳！本編は45分程度を予定しています（緊張がすごいので） ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YWPWSTD2gwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YWPWSTD2gwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YWPWSTD2gwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YWPWSTD2gwY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Iroha ch. 風真いろは - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-19T16:35:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_A9LcUgV7dCpMIkL9OUO_ZpNMLE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R52tdP-hRfU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T02:00:11Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 Rest Your Head On My Lap~ ASMR for Stress Relief",
+                "description": "Rest your head on nee-san Fauna's lap as she reassures you that everything will be alright~ 【 Timestamps 】 ✿ 0:00 - Hey, where ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R52tdP-hRfU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R52tdP-hRfU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R52tdP-hRfU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R52tdP-hRfU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T02:00:11Z"
+            }
         }
     ]
 }
