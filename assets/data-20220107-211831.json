@@ -10897,6 +10897,162 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2021-12-25T02:00:11Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yVxXEV_C8JNlGqXz_yuo2hbxxiE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XwZMYsETPJk"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T15:59:35Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】耳かき・オイルで新年からぐっすり…💜/ Ear cleaning. Oil Ear Massage.【猫又おかゆ/ホロライブ】",
+                "description": "＿ さあ僕と一緒に今夜も眠ろうね…   ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ はじめての ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XwZMYsETPJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XwZMYsETPJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XwZMYsETPJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XwZMYsETPJk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T15:59:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QZG5NChRAsSHHK_s0LnjZH3E0Vs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dkJRqlUouIw"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-04T17:20:30Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【バイノーラル】✨🎍スーパーチャットお礼雑談🎍✨【雪花ラミィ/ホロライブ】",
+                "description": "お礼する枠     https://www.youtube.com/watch?v=wRgR5k-K1Ic https://www.youtube.com/watch?v=oH_BgqNhh60&t=1s ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dkJRqlUouIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dkJRqlUouIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dkJRqlUouIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dkJRqlUouIw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-04T17:20:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NtT9K0JW-ZHFk_K1YMEZn-y-sho",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4iPK3x84BOg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-04T16:50:45Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【SuperChat御礼】ASMRと幽霊調査のスパチャお礼まったりします【博衣こより/ホロライブ】",
+                "description": "新年初ASMR( https://youtu.be/D3y4c7y8amg )と幽霊調査コラボ（ https://youtu.be/CziZPfafgCU ）のSuperChat御礼させていただきます ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-04T16:50:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nKmAFsGfVzLeBvuqQq8QOHCCc5o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D3y4c7y8amg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T15:09:47Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【ASMR】新年ドキドキ初め♡煩悩の数だけ耳ふー？～耳かき・梵天・耳ふー・心音～【博衣こより/ホロライブ】",
+                "description": "新年ASMR初めだよ～！新年にちなんで、煩悩の数だけ耳をふーして、助手くんの煩悩を払います。 ※ASMR配信のため、SuperChatの ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D3y4c7y8amg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D3y4c7y8amg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D3y4c7y8amg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D3y4c7y8amg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T15:09:47Z"
+            }
         }
     ]
 }
