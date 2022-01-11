@@ -10588,45 +10588,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "MNIJ0YtFch4ekCpfHMHlAYLr7S8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "qx7FszTudo4"
-            },
-            "snippet": {
-                "publishedAt": "2021-12-24T23:55:32Z",
-                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
-                "title": "【ASMR/KU100】恋人気分でMerry Christmas！聖なる夜にお耳から癒しをお届け🎁【白銀ノエル/ホロライブ】",
-                "description": "全ASMR広告(冒頭＆途中含め)一切なしです   今にピッタリ！クリスマスボイス発売開始！",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/qx7FszTudo4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Noel Ch. 白銀ノエル",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2021-12-24T23:55:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "cSffPHimAMaVhfF17NSzbzMf4Zo",
             "id": {
                 "kind": "youtube#video",
