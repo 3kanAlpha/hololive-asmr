@@ -10978,45 +10978,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NtT9K0JW-ZHFk_K1YMEZn-y-sho",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4iPK3x84BOg"
-            },
-            "snippet": {
-                "publishedAt": "2022-01-04T16:50:45Z",
-                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
-                "title": "【SuperChat御礼】ASMRと幽霊調査のスパチャお礼まったりします【博衣こより/ホロライブ】",
-                "description": "新年初ASMR( https://youtu.be/D3y4c7y8amg )と幽霊調査コラボ（ https://youtu.be/CziZPfafgCU ）のSuperChat御礼させていただきます ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/4iPK3x84BOg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Koyori ch. 博衣こより - holoX -",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-01-04T16:50:45Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "nKmAFsGfVzLeBvuqQq8QOHCCc5o",
             "id": {
                 "kind": "youtube#video",
@@ -11052,6 +11013,84 @@
                 "channelTitle": "Koyori ch. 博衣こより - holoX -",
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-01-02T15:09:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jnzH1y1o55--Yo_RqRcJMXynPOE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VeRe2LaP-Fo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-09T22:45:52Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR】絶対眠れる♡オイルマッサージ・耳かき（梵天・綿棒etc）/Oil massage, ear scratching 【雪花ラミィ/ホロライブ】",
+                "description": "ASMR動画ですのでイヤホンかヘッドホン推奨です✨ This is an ASMR video, so earphones or headphones are recommended✨ 前半： ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VeRe2LaP-Fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VeRe2LaP-Fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VeRe2LaP-Fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VeRe2LaP-Fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-09T22:45:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c1ElThcBNXCFeK5r3Gf4D3tVD9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PL2iruXhjeM"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-08T01:00:16Z",
+                "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+                "title": "[ASMR Roleplay] Relaxing With You in an Underworld Hot Spring (Sleeping Aid)",
+                "description": "Your soul slipped down to the Underworld, and you can't seem to remember why... naaaah nah deadbeat you gotta chill. idk imma ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PL2iruXhjeM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PL2iruXhjeM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PL2iruXhjeM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PL2iruXhjeM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mori Calliope Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-08T01:00:16Z"
             }
         }
     ]
