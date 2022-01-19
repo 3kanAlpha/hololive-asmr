@@ -11053,6 +11053,162 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-01-08T01:00:16Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hs_-6Gyh155JKk4QjnhvbK6ILTU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "01jAhhGdgh8"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-16T13:52:27Z",
+                "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+                "title": "【ASMR】出来立ての苺飴・飴をぺろぺろもぐもぐ💕咀嚼音/Eating Sound【ホロライブ/ロボ子さん】",
+                "description": "ホロライブ #ロボ子生放送 でツイートしてね❤ Xmasボイス販売されたよ～～  youtube以上に近い距離のボク感じてほしいな❤ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/01jAhhGdgh8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/01jAhhGdgh8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/01jAhhGdgh8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/01jAhhGdgh8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Roboco Ch. - ロボ子",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-16T13:52:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gW1katDy--mURdh0ydc515791Rk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0iB_AMLZLh4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-16T16:04:43Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR｜高音質】耳かきONLY！ASMR（竹・綿棒・梵天・ブラシetc）/ear cleaningONLY！cotton swabs, Brahma, brushes, etc.【雪花ラミィ】",
+                "description": "ASMR動画ですのでイヤホンかヘッドホン推奨です✨ This is an ASMR video, so earphones or headphones are recommended✨ #ら ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0iB_AMLZLh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0iB_AMLZLh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0iB_AMLZLh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0iB_AMLZLh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-16T16:04:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kkOA1gWcCUTO-1gLKOWwSzPRjxA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wRyXGqJHPwk"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-18T09:28:25Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【ASMR】煽りを頑張るASMR～耳かき・梵天・囁き・スライム～【博衣こより/ホロライブ】",
+                "description": "開始時間遅れる可能性あり！目安でよろしくお願いします！ ※ASMR配信のため、SuperChatの御礼は改めて別枠でさせていただきます！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wRyXGqJHPwk/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wRyXGqJHPwk/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wRyXGqJHPwk/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wRyXGqJHPwk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "live",
+                "publishTime": "2022-01-18T09:28:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RvqcvTeNAFtJ106I693LfK40ZJI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xEUEAIiIga0"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-13T01:05:51Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 Relax with Ear Cleaning &amp; Oil Massage ASMR 🌿 #holoCouncil",
+                "description": "My first ASMR stream in a while! Let's relax~ ✿ Artist Credits ✿ Thumbnail: https://twitter.com/Dentaku_music Thank you so much!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xEUEAIiIga0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xEUEAIiIga0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xEUEAIiIga0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xEUEAIiIga0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-13T01:05:51Z"
+            }
         }
     ]
 }
