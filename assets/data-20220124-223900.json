@@ -11209,6 +11209,45 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-01-13T01:05:51Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X7Q45fKFW_tLRdny8iO6RS0ZKZ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r4dVcg_OsAM"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-21T15:41:56Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【#ノエスタdeASMR講座】KU100！オフASMR！頭脳派マヨ娘と脳筋牛丼娘の癒し空間(？)【白銀ノエル/博衣こより】",
+                "description": "幻の企画となりつつあったASMR講座が復活！ 今日はHoloXのこよちゃんに僭越ながらASMRを伝授します～ッ  ✨ 実はドキドキ初コラボ！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r4dVcg_OsAM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r4dVcg_OsAM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r4dVcg_OsAM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r4dVcg_OsAM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-21T15:41:56Z"
+            }
         }
     ]
 }
