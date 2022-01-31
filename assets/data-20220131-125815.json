@@ -11248,6 +11248,45 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-01-21T15:41:56Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O8PhOWy6zNSeXqMU0rOXZpC4Fgo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "34SYKE0iBHI"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-31T00:10:14Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 KU100 is here! Be my test subject~ #holoCouncil",
+                "description": "KU100 IS FINALLY HERE AHHH let's test it out together! ✿ Artist Credits ✿ Thumbnail: https://twitter.com/o8q Thank you so much!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/34SYKE0iBHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/34SYKE0iBHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/34SYKE0iBHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/34SYKE0iBHI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-31T00:10:14Z"
+            }
         }
     ]
 }
