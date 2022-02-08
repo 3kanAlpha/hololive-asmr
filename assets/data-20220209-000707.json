@@ -11287,6 +11287,84 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-01-31T00:10:14Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S0kOXPYdOeWQ_SCzYVnvSoVPnFQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rPgJ92H4Azc"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-04T16:53:34Z",
+                "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
+                "title": "【ASMR｜高音質】《寝落ち専用・広告なし》囁き・吐息あり♡オイルマッサージASMR（With whispering and exhaling♡Oil massage）【雪花ラミィ/ホロライブ】",
+                "description": "ASMR動画ですのでイヤホンかヘッドホン推奨です✨ This is an ASMR video, so earphones or headphones are recommended✨ #ら ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rPgJ92H4Azc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rPgJ92H4Azc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rPgJ92H4Azc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rPgJ92H4Azc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Lamy Ch. 雪花ラミィ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-04T16:53:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5cbtQohnRSHBD3SMFefLdLHpwg0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IhN7AAOX2eg"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-06T23:21:37Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【ASMR】 KU100 ♡ onomatopoeia ✧ ear cleaning ✧ whispers ♡ For sleep and relaxation 🌿 #holoCouncil",
+                "description": "More ASMR with my new KU100! ✿ Artist Credits ✿ Thumbnail: https://twitter.com/6665_roku Thank you so much!! ✿ Hashtags ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IhN7AAOX2eg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IhN7AAOX2eg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IhN7AAOX2eg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IhN7AAOX2eg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-06T23:21:37Z"
+            }
         }
     ]
 }
