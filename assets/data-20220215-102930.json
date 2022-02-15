@@ -11365,6 +11365,240 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-02-06T23:21:37Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KP-8w0GvvE1lDMTth-kLCebIa3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TvDgRazqwgo"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-14T15:46:03Z",
+                "channelId": "UC-hM6YJuNYVAmUWxeIr9FeA",
+                "title": "【 ASMR 】はじめてのKU100🍫あまあまValentineASMRで癒してあげる･･にぇ！Ear Massage/Sleep Whispering/KU100【ホロライブ/さくらみこ】",
+                "description": "KU100買ったのでがんばるASMR ※イヤフォン/ヘッドホン推奨だよ！ メンバーさん限定でも今後はやっていく予定です   Member Ship ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TvDgRazqwgo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TvDgRazqwgo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TvDgRazqwgo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TvDgRazqwgo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Miko Ch. さくらみこ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-14T15:46:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gd5Oek_SwVvl5j9KcHnjcQZoppc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vsFmWYe-SiA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-13T16:46:05Z",
+                "channelId": "UC1suqwovbL1kzsoaZgFZLKg",
+                "title": "【ASMR】お誕生日カウントダウン【ホロライブ/癒月ちょこ】",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ サムネイラスト：赤倉 / Akakura 様@akakura1341 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vsFmWYe-SiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vsFmWYe-SiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vsFmWYe-SiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vsFmWYe-SiA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Choco Ch. 癒月ちょこ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-13T16:46:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4cb1_oRoyuEkZ2h47aFXAxQDN2E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "35ttVJ2Ouzk"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-14T16:46:32Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】ハッピーバレンタイン🍫こそっとASMR…【猫又おかゆ/ホロライブ】",
+                "description": "＿ もぐもぐひそひそ。 イラスト:IKDHRさん(@6u6aH_ ) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/35ttVJ2Ouzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/35ttVJ2Ouzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/35ttVJ2Ouzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/35ttVJ2Ouzk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-14T16:46:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8_icpQuOKMRni6YDbrnb5L8G4hg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Mr9iteEQqE"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-14T13:12:52Z",
+                "channelId": "UC1DCedRgGHBdm81E1llLhOQ",
+                "title": "【ASMR】綺麗なお姉さん達に癒されよう♪ inノエスタオフコラボ🍫（ノエルにASMRを教えてもらう枠）【兎田ぺこら/白銀ノエル】",
+                "description": "初ASMRdeath!!まずはサムネで釣るぺこ！ 綺麗なお姉さん ​ @Noel Ch. 白銀ノエル サムネイラスト：  セイクオ(Seicoh)  (@Seic_Oh) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Mr9iteEQqE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Mr9iteEQqE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Mr9iteEQqE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Mr9iteEQqE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pekora Ch. 兎田ぺこら",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-14T13:12:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SiYbrMHrA8Yr2gLQuYsx_FvHvPE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F2UNNen45H4"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-14T12:37:19Z",
+                "channelId": "UC1uv2Oq6kNxgATlCiez59hw",
+                "title": "【ASMR】vs煎餅　※咀嚼音注意【常闇トワ】",
+                "description": "30分オンリー その後member限定配信します～！ 常闇トワ 1stアルバム「Scream」配信中！ ▽詳細▽ https://cover.lnk.to/Scream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F2UNNen45H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F2UNNen45H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F2UNNen45H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F2UNNen45H4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Towa Ch. 常闇トワ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-14T12:37:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1rB8GT0T0kS_7lJkJ8lgW0ifhBs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "McKL5PR2F-w"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-15T00:00:11Z",
+                "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+                "title": "【 ASMR 】Neko Maid Cafe! Nya~ 💕",
+                "description": "Okaerinasaimase, Goshujinsama !   @Ceres Fauna Ch. hololive-EN https://twitter.com/ceresfauna @Gawr Gura Ch. hololive-EN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/McKL5PR2F-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/McKL5PR2F-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/McKL5PR2F-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/McKL5PR2F-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gawr Gura Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-15T00:00:11Z"
+            }
         }
     ]
 }
