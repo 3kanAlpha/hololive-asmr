@@ -13,7 +13,7 @@ const app = Vue.createApp({
 const vm = app.mount('#list-parent');
 
 // データベースを更新した日時
-const updatedDate = "20220215-102930";  // アプデしたらここだけ書き換えればよい
+const updatedDate = "20220225-002113";  // アプデしたらここだけ書き換えればよい
 const jsonPath = 'assets/data-' + updatedDate + '.json';
 
 function showUpdatedDate() {
