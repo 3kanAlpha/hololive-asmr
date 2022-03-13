@@ -11677,6 +11677,357 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-02-18T04:42:32Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ccf6w8miFyYkYdzKcZ4Ap02MavU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mWNokGROpTU"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T20:02:29Z",
+                "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+                "title": "【ASMR/黒3dio】あなたの好きなセリフいっぱい囁きます♡Whispering talk【ホロライブ/夜空メル】",
+                "description": "いつもはもっと音質が良いKU100を使用してます / イラスト：あずとらこ様 https://twitter.com/puipui0707 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mWNokGROpTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mWNokGROpTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mWNokGROpTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mWNokGROpTU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mel Channel 夜空メルチャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T20:02:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6hRjpIcYe1rLNv1_n4Bn12AYtoU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BIw2qNFyEJs"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T14:13:31Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】初KU100！月末定期ASMR♬囁き台詞多め！　2022.2【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです 全体公開では初の「KU100」ASMR放送！ 今回は「囁き」多めでお話していきましょう✨ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BIw2qNFyEJs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BIw2qNFyEJs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BIw2qNFyEJs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BIw2qNFyEJs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T14:13:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T3SYrPPUDQmhUiGVtpvgL-Q-EdA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mQkx60gXIuM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T16:02:16Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR／KU100】毎日頑張ってるキミへ💝眠れない夜はノエちゃんと一緒に夢の世界へ行こう🐑💤【白銀ノエル/ホロライブ】",
+                "description": "全広告OFFです！イヤホン＆ヘッドフォン推奨   久々の全体公開ASMRでドキドキ太郎です     いつも頑張ってる団員さんの少しでもお ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mQkx60gXIuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mQkx60gXIuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mQkx60gXIuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mQkx60gXIuM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T16:02:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Syv2u9MHrjxMZHHi7NJF8W3D2Oc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k_LLDirLhys"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T20:06:44Z",
+                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
+                "title": "【 BINAURAL ASMR 】しゅ💗whisper in LuKnight ear【#姫森ルーナ/ホロライブ】",
+                "description": "ライブ前なのでレッスンや喉を休めたりお仕事してきます(・o・  ) Twitter：https://twitter.com/himemoriluna ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_LLDirLhys/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_LLDirLhys/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_LLDirLhys/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k_LLDirLhys/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luna Ch. 姫森ルーナ",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2022-03-12T20:06:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ie3WgPBX4waRFUtcvD-bvvNVENo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g3WLQuH5oCQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-07T16:01:21Z",
+                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
+                "title": "【 BINAURAL ASMR 】ルーナイトの耳元でささやく💗whisper in LuKnight ear【#姫森ルーナ/ホロライブ】",
+                "description": "こしょこしょ(・o・  ) Twitter：https://twitter.com/himemoriluna ============================================= ✨オリ曲配信 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g3WLQuH5oCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g3WLQuH5oCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g3WLQuH5oCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g3WLQuH5oCQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Luna Ch. 姫森ルーナ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-07T16:01:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dC8E3a0a72yRKaBezqQ2enNheLo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kxoSVynciUs"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T15:33:55Z",
+                "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+                "title": "【 ASMR 】全力で、癒すよ♡ 睡眠導入/耳かき/マッサージ【 桃鈴ねね / ホロライブ 】",
+                "description": "高音質で癒しの空間を作っちゃうよ。 -------------------------------------------------- ↓✨バレンタインボイスはこちら✨↓ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kxoSVynciUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kxoSVynciUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kxoSVynciUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kxoSVynciUs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nene Ch.桃鈴ねね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T15:33:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rwR8QaUYWv79Kze5mubg-AodVGA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DrI0CtCzG-w"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T22:13:16Z",
+                "channelId": "UCIBY1ollUsauvVi4hW4cumw",
+                "title": "【ASMR】シャチが彼女面で君に話しかけるいちゃらぶバイノーラル【沙花叉クロヱ/ホロライブ】",
+                "description": "このASMR配信でのスパチャは目に入った際にたま～～～～に彼女面でお返事するくらいの基本読み上げなしスタイルです！ 好評だった ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Chloe ch. 沙花叉クロヱ - holoX -",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2022-03-12T22:13:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zxNj2McqamZ1StvoSXEdpD-ghg8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IpRMNPdH-Po"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T23:22:28Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【KU100 Manga Reading】 catmaid nya!",
+                "description": "Get \"I'm the Catlords' Manservant, Vol. 1\" on BOOK☆WALKER: https://bkwk.jp/gl_fauna Use code [fauna] to get 600JPY OFF if ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IpRMNPdH-Po/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IpRMNPdH-Po/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IpRMNPdH-Po/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IpRMNPdH-Po/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T23:22:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NMXzLq8sJIRUHGW4agrmgk4VaAY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qtF8DUfTSBk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T05:07:25Z",
+                "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+                "title": "【KU100 ASMR】 Healing water ASMR ♡ Fauna&#39;s Apothecary for sleep and relaxation 💤",
+                "description": "Various water ASMR triggers! ✿ Artist Credits ✿ Thumbnail: https://twitter.com/zerosonzai Thank you so much!! ✿ Artist Credits ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qtF8DUfTSBk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qtF8DUfTSBk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qtF8DUfTSBk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qtF8DUfTSBk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ceres Fauna Ch. hololive-EN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T05:07:25Z"
+            }
         }
     ]
 }
