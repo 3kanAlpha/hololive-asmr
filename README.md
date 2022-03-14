@@ -2,7 +2,7 @@
 **ホロライブのASMR配信が無性に見たい**……！というときに使うサービスです。  
 ASMR配信と、それに類する配信のみを掲載しています。
 
-[> Click here to visit! <](https://3kanalpha.github.io/hololive-asmr/)
+[> Click here to visit! <](https://holoasmr.mgcup.net/)
 
 ※一部のブラウザは画像の遅延読み込みに対応していないため、ページの読み込みに時間がかかる場合があります。
 

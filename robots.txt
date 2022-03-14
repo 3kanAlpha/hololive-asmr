@@ -1,4 +1,4 @@
 User-Agent:*
 Disallow:
 
-Sitemap:https://3kanalpha.github.io/hololive-asmr/sitemap.xml
+Sitemap:https://holoasmr.mgcup.net/sitemap.xml
