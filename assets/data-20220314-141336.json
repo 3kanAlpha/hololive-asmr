@@ -6152,45 +6152,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "tXzcBS0KwxhogBs3pa0wx0UHjv8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "zkTl6QmKQOM"
-            },
-            "snippet": {
-                "publishedAt": "2020-11-10T17:11:43Z",
-                "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
-                "title": "【 スパチャ読み雑談 】バイノーラルマイクで音遊びしながらなのら！Binaural Mic【姫森ルーナ/ホロライブ】",
-                "description": "zzz 姫森ルーナ 誕生日記念ボイス2020⭐記念ボイス＆記念グッズ 誕生日の記念にぜひ…",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/zkTl6QmKQOM/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Luna Ch. 姫森ルーナ",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-11-10T17:11:43Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "hHQC5S4hKBjXt2XaAmh70xaTsgM",
             "id": {
                 "kind": "youtube#video",
@@ -11910,45 +11871,6 @@
                 "channelTitle": "Nene Ch.桃鈴ねね",
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-02-28T15:33:55Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rwR8QaUYWv79Kze5mubg-AodVGA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "DrI0CtCzG-w"
-            },
-            "snippet": {
-                "publishedAt": "2022-03-12T22:13:16Z",
-                "channelId": "UCIBY1ollUsauvVi4hW4cumw",
-                "title": "【ASMR】シャチが彼女面で君に話しかけるいちゃらぶバイノーラル【沙花叉クロヱ/ホロライブ】",
-                "description": "このASMR配信でのスパチャは目に入った際にたま～～～～に彼女面でお返事するくらいの基本読み上げなしスタイルです！ 好評だった ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/DrI0CtCzG-w/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Chloe ch. 沙花叉クロヱ - holoX -",
-                "liveBroadcastContent": "upcoming",
-                "publishTime": "2022-03-12T22:13:16Z"
             }
         },
         {
