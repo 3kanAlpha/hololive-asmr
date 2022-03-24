@@ -11950,6 +11950,123 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-03-05T05:07:25Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Co2v_nhlT2eqmWqmB_FwrziiSEc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YMsC-2TMvw8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-14T16:58:45Z",
+                "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+                "title": "【ASMR】ハッピーホワイトデー！耳かき/吐息/囁き… Ear Cleaning【猫又おかゆ/ホロライブ】",
+                "description": "＿ KU-100でこっしょこしょ！ イラスト:白雲 あるさん( https://twitter.com/nkrlo?s=21 ) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YMsC-2TMvw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YMsC-2TMvw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YMsC-2TMvw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YMsC-2TMvw8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Okayu Ch. 猫又おかゆ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-14T16:58:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BNBY7nuO0A28rUlh9CKIwWbwQlA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Oy408krvZMY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-18T15:47:57Z",
+                "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+                "title": "【ASMR／KU100】＜お披露目あり！＞睡眠の日💤ライブ前にキミのお耳を極上耳かきで綺麗にします🌟【白銀ノエル/ホロライブ】",
+                "description": "何のお披露目なんだろう？！ドキドキ・・・   #ノエルASMR で呟いてね✨ 素敵なサムネイラスト：Niii(@Niiisan617)さま   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oy408krvZMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oy408krvZMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oy408krvZMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Oy408krvZMY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Noel Ch. 白銀ノエル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-18T15:47:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LK4PTvbUKlB7Iik8xUOjf8kGHzU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8sRXMp0dQ7g"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-17T15:10:02Z",
+                "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
+                "title": "【ASMR】絶対寝させる！耳かき・梵天・吐息・心音etc…このマイクでは最後かも？【博衣こより/ホロライブ】",
+                "description": "今使っているマイクで行うASMRは最後かもしれません！！！なぜなら！！新しいASMRマイクをぽちったからです！！！音が結構変わると ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8sRXMp0dQ7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8sRXMp0dQ7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8sRXMp0dQ7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8sRXMp0dQ7g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Koyori ch. 博衣こより - holoX -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-17T15:10:02Z"
+            }
         }
     ]
 }
