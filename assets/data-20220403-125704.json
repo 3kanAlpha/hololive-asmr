@@ -12067,6 +12067,45 @@
                 "liveBroadcastContent": "none",
                 "publishTime": "2022-03-17T15:10:02Z"
             }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "awbc1_EakPxJNQ5Q6frA4DdN5MY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZwM8_hQITrw"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-02T15:12:12Z",
+                "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+                "title": "【ASMR】月末定期ASMR（だった）すやすやオフトゥン編【ホロライブ/白上フブキ】",
+                "description": "ホロライブ所属の白上フブキです ３月末はコラボが沢山でした！嬉しいですねっ 今日はオフトゥンにこもりながらみんなですやすや雑談しま ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZwM8_hQITrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZwM8_hQITrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZwM8_hQITrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZwM8_hQITrw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "フブキCh。白上フブキ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-02T15:12:12Z"
+            }
         }
     ]
 }
